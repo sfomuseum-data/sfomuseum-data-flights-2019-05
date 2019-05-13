@@ -2,8 +2,8 @@
   "type": "Feature",
   "id": 1377649407,
   "properties": {
-    "edtf:cessation": "2019-05-10~",
-    "edtf:inception": "2019-05-10~",
+    "edtf:cessation": "2019-05-10T20:16:00Z",
+    "edtf:inception": "2019-05-10T19:08:00Z",
     "flysfo:airline": "AS",
     "flysfo:date": "2019-05-10",
     "flysfo:event": "arrival",
@@ -16,10 +16,12 @@
     "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "icao:base_airline": "",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528997,
@@ -27,6 +29,8 @@
     "sfomuseum:flight_number": ["AS1957", "ASA1957"],
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
+    "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N285VA",
     "wof:belongsto": [
       554784711, 
       85688637, 
@@ -37,6 +41,10 @@
       102087579, 
       85922583
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "100794285",
+      "swim:gufi": ""
+    },
     "wof:country": "US",
     "wof:created": 1557775943,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -59,8 +67,8 @@
       }
     ],
     "wof:id": 1377649407,
-    "wof:involves": [102527513, 102528997, 1159283813],
-    "wof:lastmodified": 1557775943,
+    "wof:involves": [102527513, 102528997, 1159283813, 1159292085],
+    "wof:lastmodified": 1557778009,
     "wof:name": "AS1957 (SAN-SFO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

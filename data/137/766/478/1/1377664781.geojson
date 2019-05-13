@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": 1377664781,
   "properties": {
-    "edtf:cessation": "2019-05-12T21:07:35Z~",
+    "edtf:cessation": "2019-05-12T21:02:46Z~",
     "edtf:inception": "2019-05-12T19:20:00Z",
     "flysfo:airline": "UA",
     "flysfo:date": "2019-05-12",
@@ -35,17 +35,17 @@
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
     "wof:belongsto": [
-      85688637, 
       1159157271, 
-      1159396267, 
       102087579, 
-      85922583, 
       1159157767, 
+      1377664781, 
       1159157307, 
       85633793, 
-      1377664781, 
+      85688637, 
       102527513, 
-      102191575
+      1159396267, 
+      102191575, 
+      85922583
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -73,7 +73,7 @@
     ],
     "wof:id": 1377664781,
     "wof:involves": [102527513, 102555307, 1159285413, 1159157767, 1159289871],
-    "wof:lastmodified": 1557763479,
+    "wof:lastmodified": 1557771220,
     "wof:name": "UA2285 (YVR-SFO)",
     "wof:parent_id": 1159157767,
     "wof:placetype": "event",

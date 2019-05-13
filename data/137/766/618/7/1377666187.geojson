@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": 1377666187,
   "properties": {
-    "edtf:cessation": "2019-05-12T22:04:06Z~",
+    "edtf:cessation": "2019-05-12T21:42:00Z~",
     "edtf:inception": "2019-05-12T20:00:00Z",
     "flysfo:airline": "WS",
     "flysfo:date": "2019-05-12",
@@ -35,22 +35,22 @@
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85922583, 
-      1159157667, 
       85688637, 
-      1159157271, 
-      102191575, 
-      1377666187, 
+      1159157333, 
       102527513, 
+      102087579, 
+      85633793, 
+      1377666187, 
+      85922583, 
+      1159157271, 
       1159157339, 
-      1159157333
+      102191575, 
+      1159157667
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "swim:flight_ref": "100974147",
-      "swim:gufi": "KS67660100"
+      "swim:gufi": ""
     },
     "wof:country": "US",
     "wof:created": 1557763320,
@@ -73,7 +73,7 @@
     ],
     "wof:id": 1377666187,
     "wof:involves": [102527513, 102555307, 1159285523, 1159157667, 1159289869],
-    "wof:lastmodified": 1557763483,
+    "wof:lastmodified": 1557771223,
     "wof:name": "WS1774 (YVR-SFO)",
     "wof:parent_id": 1159157667,
     "wof:placetype": "event",

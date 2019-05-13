@@ -4,8 +4,8 @@
   "properties": {
     "date:inception_lower": "2019-05-12",
     "date:inception_upper": "2019-05-12",
-    "edtf:cessation": "2019-05-13T03:30:36Z~",
-    "edtf:inception": "2019-05-12T22:38:00Z~",
+    "edtf:cessation": "2019-05-13T00:53:00Z~",
+    "edtf:inception": "2019-05-12T19:58:00Z~",
     "flysfo:airline": "UA",
     "flysfo:date": "2019-05-12",
     "flysfo:event": "departure",
@@ -36,23 +36,24 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N595UA",
     "wof:belongsto": [
-      1159157749, 
-      1159157307, 
+      102527513, 
       1159396301, 
+      85633793, 
+      1377668481, 
+      85922583, 
+      102191575, 
       1159157271, 
       102087579, 
       85688637, 
-      1377668481, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793
+      1159157307, 
+      1159157749
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "swim:flight_ref": "100973197",
-      "swim:gufi": "KO73838100"
+      "swim:gufi": "KO61670100"
     },
     "wof:country": "US",
     "wof:created": 1557763345,
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1377668481,
     "wof:involves": [102530049, 102527513, 1159285413, 1159157749, 1159289939],
-    "wof:lastmodified": 1557763488,
+    "wof:lastmodified": 1557771228,
     "wof:name": "UA2319 (SFO-EWR)",
     "wof:parent_id": 1159157749,
     "wof:placetype": "event",

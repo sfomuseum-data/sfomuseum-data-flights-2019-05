@@ -36,18 +36,19 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N19130",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      102191575, 
       85688637, 
       102527513, 
+      102191575, 
+      1159157307, 
       1159396301, 
-      102087579, 
       85633793, 
+      102087579, 
+      85922583, 
       1377664107, 
       1159157861, 
-      1159157307
+      1159157271
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1377664107,
     "wof:involves": [102531189, 102527513, 1159285413, 1159157861, 1159289939],
-    "wof:lastmodified": 1557677056,
+    "wof:lastmodified": 1557771354,
     "wof:name": "UA720 (SFO-DEN)",
     "wof:parent_id": 1159157861,
     "wof:placetype": "event",

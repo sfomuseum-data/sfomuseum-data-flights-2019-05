@@ -36,16 +36,17 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N283VA",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
+      102191575, 
       85633793, 
-      102087579, 
       1377656535, 
-      102085387, 
       85922583, 
+      102085387, 
+      102527513, 
+      102087579, 
       554784711, 
-      102191575
+      85688637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -77,7 +78,7 @@
     ],
     "wof:id": 1377656535,
     "wof:involves": [102527209, 102527513, 1159283813, 1159292085],
-    "wof:lastmodified": 1557590684,
+    "wof:lastmodified": 1557771452,
     "wof:name": "AS1896 (SFO-LAS)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

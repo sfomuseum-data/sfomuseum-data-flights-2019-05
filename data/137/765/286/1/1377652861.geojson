@@ -34,16 +34,17 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N855VA",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
       102087579, 
       1377652861, 
-      85922583, 
       554784711, 
-      102527513, 
       102191575, 
-      102085387
+      102085387, 
+      85922583, 
+      85688637, 
+      102527513, 
+      85633793
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1377652861,
     "wof:involves": [102527513, 102521851, 1159283813, 1159292085],
-    "wof:lastmodified": 1557590683,
+    "wof:lastmodified": 1557771444,
     "wof:name": "AS1221 (AUS-SFO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

@@ -36,16 +36,17 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N564AS",
     "wof:belongsto": [
+      554784711, 
+      102191575, 
+      1377656567, 
+      102085387, 
+      85688637, 
       102527513, 
       85633793, 
-      1377656567, 
-      85922583, 
-      102085387, 
-      102191575, 
       102087579, 
-      554784711, 
-      85688637
+      85922583
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -77,7 +78,7 @@
     ],
     "wof:id": 1377656567,
     "wof:involves": [102532251, 102527513, 1159283813, 1159289871],
-    "wof:lastmodified": 1557590681,
+    "wof:lastmodified": 1557771452,
     "wof:name": "AS361 (SFO-PDX)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

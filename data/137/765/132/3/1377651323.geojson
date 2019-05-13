@@ -35,17 +35,17 @@
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
     "wof:belongsto": [
+      1159157623, 
+      85922583, 
       102191575, 
+      102527513, 
       85633793, 
       1377651323, 
-      1159157333, 
-      1159157271, 
-      102527513, 
       1159157337, 
-      1159157623, 
       102087579, 
+      1159157333, 
       85688637, 
-      85922583
+      1159157271
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -73,7 +73,7 @@
     ],
     "wof:id": 1377651323,
     "wof:involves": [102527513, 102553957, 1159285413, 1159157623, 1159289995],
-    "wof:lastmodified": 1557590682,
+    "wof:lastmodified": 1557771441,
     "wof:name": "UA45 (ZRH-SFO)",
     "wof:parent_id": 1159157623,
     "wof:placetype": "event",

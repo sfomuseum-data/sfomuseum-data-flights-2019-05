@@ -37,15 +37,15 @@
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
     "wof:belongsto": [
+      85688637, 
+      102191575, 
+      85633793, 
+      102085387, 
       1377663545, 
       85922583, 
       554784711, 
       102527513, 
-      102085387, 
-      102087579, 
-      85633793, 
-      85688637, 
-      102191575
+      102087579
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -77,7 +77,7 @@
     ],
     "wof:id": 1377663545,
     "wof:involves": [102536441, 102527513, 1159283813, 1159292085],
-    "wof:lastmodified": 1557677055,
+    "wof:lastmodified": 1557771352,
     "wof:name": "AS1274 (SFO-SJD)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

@@ -36,18 +36,19 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N281VA",
     "wof:belongsto": [
       1377668801, 
-      102527513, 
+      85922583, 
       1159396121, 
-      102087579, 
-      85688637, 
+      102527513, 
       1159157271, 
       1159396181, 
       102191575, 
-      1159157793, 
       85633793, 
-      85922583
+      102087579, 
+      1159157793, 
+      85688637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1377668801,
     "wof:involves": [102533269, 102527513, 1159283813, 1159157793, 1159292085],
-    "wof:lastmodified": 1557763488,
+    "wof:lastmodified": 1557771229,
     "wof:name": "AS1371 (SFO-SEA)",
     "wof:parent_id": 1159157793,
     "wof:placetype": "event",

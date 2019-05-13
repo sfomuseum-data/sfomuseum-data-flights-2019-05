@@ -2,8 +2,8 @@
   "type": "Feature",
   "id": 1377666391,
   "properties": {
-    "edtf:cessation": "2019-05-13T04:48:35Z~",
-    "edtf:inception": "2019-05-12T23:20:00Z~",
+    "edtf:cessation": "2019-05-13T05:17:00Z~",
+    "edtf:inception": "2019-05-12T23:24:00Z~",
     "flysfo:airline": "UA",
     "flysfo:date": "2019-05-12",
     "flysfo:event": "arrival",
@@ -34,23 +34,24 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N48127",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
       85688637, 
+      85922583, 
+      102087579, 
+      1159157271, 
+      85633793, 
       1159157665, 
+      1159157307, 
       1159396301, 
       102191575, 
-      1159157307, 
-      102527513, 
-      102087579, 
       1377666391, 
-      1159157271
+      102527513
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "swim:flight_ref": "100990283",
-      "swim:gufi": "KN76989100"
+      "swim:gufi": ""
     },
     "wof:country": "US",
     "wof:created": 1557763322,
@@ -73,7 +74,7 @@
     ],
     "wof:id": 1377666391,
     "wof:involves": [102527513, 102530049, 1159285413, 1159157665, 1159289939],
-    "wof:lastmodified": 1557763486,
+    "wof:lastmodified": 1557771223,
     "wof:name": "UA748 (EWR-SFO)",
     "wof:parent_id": 1159157665,
     "wof:placetype": "event",

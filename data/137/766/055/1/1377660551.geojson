@@ -34,16 +34,17 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N362VA",
     "wof:belongsto": [
-      102085387, 
+      102527513, 
       85633793, 
+      554784711, 
+      85688637, 
+      102191575, 
       102087579, 
       1377660551, 
       85922583, 
-      554784711, 
-      102527513, 
-      102191575, 
-      85688637
+      102085387
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1377660551,
     "wof:involves": [102527513, 102533795, 1159283813, 1159292085],
-    "wof:lastmodified": 1557677048,
+    "wof:lastmodified": 1557771346,
     "wof:name": "AS1945 (LAX-SFO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

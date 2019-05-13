@@ -34,18 +34,19 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N940WN",
     "wof:belongsto": [
-      85633793, 
-      1159157317, 
       102527513, 
+      85922583, 
       102191575, 
-      1159157811, 
+      1377652745, 
+      1159157317, 
       1159396217, 
+      85633793, 
       102087579, 
       85688637, 
       1159157271, 
-      1377652745, 
-      85922583
+      1159157811
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -73,7 +74,7 @@
     ],
     "wof:id": 1377652745,
     "wof:involves": [102527513, 102533795, 1159285591, 1159157811, 1159289869],
-    "wof:lastmodified": 1557590678,
+    "wof:lastmodified": 1557771444,
     "wof:name": "WN1072 (LAX-SFO)",
     "wof:parent_id": 1159157811,
     "wof:placetype": "event",

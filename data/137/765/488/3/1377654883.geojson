@@ -36,18 +36,19 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N530VA",
     "wof:belongsto": [
+      102087579, 
+      1377654883, 
       1159157271, 
       1159396181, 
       85688637, 
       102527513, 
       85633793, 
-      102087579, 
-      1159157839, 
       1159396121, 
       102191575, 
-      1377654883, 
-      85922583
+      85922583, 
+      1159157839
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1377654883,
     "wof:involves": [102533795, 102527513, 1159283813, 1159157839, 1159289407],
-    "wof:lastmodified": 1557590680,
+    "wof:lastmodified": 1557771449,
     "wof:name": "AS1922 (SFO-LAX)",
     "wof:parent_id": 1159157839,
     "wof:placetype": "event",

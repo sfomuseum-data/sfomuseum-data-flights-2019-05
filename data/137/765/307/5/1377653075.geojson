@@ -34,16 +34,17 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N365VA",
     "wof:belongsto": [
-      554784711, 
-      85688637, 
-      102527513, 
-      102191575, 
       85633793, 
       102087579, 
+      102527513, 
+      102191575, 
       102085387, 
+      1377653075, 
       85922583, 
-      1377653075
+      554784711, 
+      85688637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1377653075,
     "wof:involves": [102527513, 102528997, 1159283813, 1159292085],
-    "wof:lastmodified": 1557590678,
+    "wof:lastmodified": 1557771445,
     "wof:name": "AS1963 (SAN-SFO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

@@ -2,8 +2,8 @@
   "type": "Feature",
   "id": 1377665693,
   "properties": {
-    "edtf:cessation": "2019-05-13T04:19:00Z~",
-    "edtf:inception": "2019-05-12T23:07:00Z~",
+    "edtf:cessation": "2019-05-13T04:38:00Z~",
+    "edtf:inception": "2019-05-12T23:01:00Z~",
     "flysfo:airline": "UA",
     "flysfo:date": "2019-05-12",
     "flysfo:event": "arrival",
@@ -34,23 +34,24 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N855UA",
     "wof:belongsto": [
-      85922583, 
-      1159157307, 
-      102087579, 
-      102527513, 
       1159396301, 
-      85633793, 
       102191575, 
+      85633793, 
       1377665693, 
-      85688637, 
+      85922583, 
       1159157675, 
-      1159157271
+      1159157307, 
+      1159157271, 
+      102087579, 
+      85688637, 
+      102527513
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "swim:flight_ref": "100989107",
-      "swim:gufi": "KW74290100"
+      "swim:gufi": ""
     },
     "wof:country": "US",
     "wof:created": 1557763315,
@@ -73,7 +74,7 @@
     ],
     "wof:id": 1377665693,
     "wof:involves": [102527513, 102528779, 1159285413, 1159157675, 1159289407],
-    "wof:lastmodified": 1557763482,
+    "wof:lastmodified": 1557771222,
     "wof:name": "UA1123 (RDU-SFO)",
     "wof:parent_id": 1159157675,
     "wof:placetype": "event",

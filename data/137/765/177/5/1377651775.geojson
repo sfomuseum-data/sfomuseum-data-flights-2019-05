@@ -35,17 +35,17 @@
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
     "wof:belongsto": [
-      1159157641, 
-      1159157333, 
       1159157271, 
-      1377651775, 
       85633793, 
+      102087579, 
       85688637, 
-      102527513, 
       1159157339, 
       85922583, 
+      1159157641, 
+      1159157333, 
+      102527513, 
       102191575, 
-      102087579
+      1377651775
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -73,7 +73,7 @@
     ],
     "wof:id": 1377651775,
     "wof:involves": [102527513, 102557783, 1159285043, 1159157641, 1159289915],
-    "wof:lastmodified": 1557590682,
+    "wof:lastmodified": 1557771442,
     "wof:name": "QF73 (SYD-SFO)",
     "wof:parent_id": 1159157641,
     "wof:placetype": "event",

@@ -36,16 +36,17 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N636VA",
     "wof:belongsto": [
-      102085387, 
+      1377655903, 
+      554784711, 
       102527513, 
-      85633793, 
+      102191575, 
       102087579, 
       85922583, 
-      554784711, 
       85688637, 
-      102191575, 
-      1377655903
+      85633793, 
+      102085387
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -77,7 +78,7 @@
     ],
     "wof:id": 1377655903,
     "wof:involves": [102533657, 102527513, 1159283813, 1159292085],
-    "wof:lastmodified": 1557590681,
+    "wof:lastmodified": 1557771451,
     "wof:name": "AS1300 (SFO-MCO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

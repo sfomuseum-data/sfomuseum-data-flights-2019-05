@@ -4,7 +4,7 @@
   "properties": {
     "date:inception_lower": "2019-05-12",
     "date:inception_upper": "2019-05-12",
-    "edtf:cessation": "2019-05-12T23:04:34Z~",
+    "edtf:cessation": "2019-05-12T22:54:39Z~",
     "edtf:inception": "2019-05-12T21:51:00Z",
     "flysfo:airline": "AS",
     "flysfo:date": "2019-05-12",
@@ -36,18 +36,19 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N629VA",
     "wof:belongsto": [
-      85688637, 
+      1159157793, 
+      1377670891, 
       1159396121, 
       102527513, 
-      102191575, 
-      85922583, 
-      1159157793, 
       85633793, 
+      85922583, 
       1159157271, 
       1159396181, 
       102087579, 
-      1377670891
+      85688637, 
+      102191575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1377670891,
     "wof:involves": [102527209, 102527513, 1159283813, 1159157793, 1159292085],
-    "wof:lastmodified": 1557763480,
+    "wof:lastmodified": 1557771234,
     "wof:name": "AS1908 (SFO-LAS)",
     "wof:parent_id": 1159157793,
     "wof:placetype": "event",

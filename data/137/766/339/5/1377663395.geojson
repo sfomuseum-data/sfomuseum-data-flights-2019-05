@@ -36,18 +36,19 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N76021",
     "wof:belongsto": [
       85688637, 
-      1159157307, 
+      85633793, 
+      1377663395, 
       1159157271, 
       1159157761, 
+      102527513, 
       1159396301, 
-      1377663395, 
-      102191575, 
       85922583, 
+      102191575, 
       102087579, 
-      85633793, 
-      102527513
+      1159157307
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1377663395,
     "wof:involves": [102530049, 102527513, 1159285413, 1159157761, 1159289985],
-    "wof:lastmodified": 1557677055,
+    "wof:lastmodified": 1557771352,
     "wof:name": "UA577 (SFO-EWR)",
     "wof:parent_id": 1159157761,
     "wof:placetype": "event",

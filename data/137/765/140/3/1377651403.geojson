@@ -34,18 +34,19 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N212UA",
     "wof:belongsto": [
-      1159157761, 
       1377651403, 
       1159157307, 
-      102527513, 
+      1159157761, 
       1159396301, 
       102191575, 
-      1159157271, 
-      85633793, 
       102087579, 
+      85633793, 
+      1159157271, 
       85922583, 
-      85688637
+      85688637, 
+      102527513
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -73,7 +74,7 @@
     ],
     "wof:id": 1377651403,
     "wof:involves": [102527513, 102534097, 1159285413, 1159157761, 1159289985],
-    "wof:lastmodified": 1557590682,
+    "wof:lastmodified": 1557771441,
     "wof:name": "UA404 (IAH-SFO)",
     "wof:parent_id": 1159157761,
     "wof:placetype": "event",

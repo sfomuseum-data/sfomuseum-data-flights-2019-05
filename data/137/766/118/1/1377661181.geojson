@@ -36,18 +36,19 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "VTALF",
     "wof:belongsto": [
-      1159157271, 
       102527513, 
       1159157337, 
-      85633793, 
-      85688637, 
       1377661181, 
+      85688637, 
+      102087579, 
       85922583, 
-      1159157333, 
       1159157685, 
+      1159157271, 
       102191575, 
-      102087579
+      85633793, 
+      1159157333
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1377661181,
     "wof:involves": [102555709, 102527513, 1159283649, 1159157685, 1159289989],
-    "wof:lastmodified": 1557677049,
+    "wof:lastmodified": 1557771347,
     "wof:name": "AI174 (SFO-DEL)",
     "wof:parent_id": 1159157685,
     "wof:placetype": "event",

@@ -2,8 +2,8 @@
   "type": "Feature",
   "id": 1377666275,
   "properties": {
-    "edtf:cessation": "2019-05-13T01:29:00Z~",
-    "edtf:inception": "2019-05-12T23:22:00Z~",
+    "edtf:cessation": "2019-05-13T01:49:00Z~",
+    "edtf:inception": "2019-05-12T23:26:00Z~",
     "flysfo:airline": "UA",
     "flysfo:date": "2019-05-12",
     "flysfo:event": "arrival",
@@ -34,23 +34,24 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N76519",
     "wof:belongsto": [
-      1159157733, 
-      102191575, 
       1159157271, 
-      85688637, 
+      85922583, 
+      102087579, 
+      1159157733, 
       1159157307, 
       102527513, 
-      85633793, 
-      102087579, 
-      1377666275, 
       1159396267, 
-      85922583
+      102191575, 
+      85633793, 
+      1377666275, 
+      85688637
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "swim:flight_ref": "100991048",
-      "swim:gufi": "KD76304100"
+      "swim:gufi": ""
     },
     "wof:country": "US",
     "wof:created": 1557763320,
@@ -73,7 +74,7 @@
     ],
     "wof:id": 1377666275,
     "wof:involves": [102527513, 102531189, 1159285413, 1159157733, 1159289871],
-    "wof:lastmodified": 1557763484,
+    "wof:lastmodified": 1557771223,
     "wof:name": "UA737 (DEN-SFO)",
     "wof:parent_id": 1159157733,
     "wof:placetype": "event",

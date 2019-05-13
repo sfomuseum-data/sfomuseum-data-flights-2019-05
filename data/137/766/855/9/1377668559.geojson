@@ -4,7 +4,7 @@
   "properties": {
     "date:inception_lower": "2019-05-12",
     "date:inception_upper": "2019-05-12",
-    "edtf:cessation": "2019-05-13T08:16:50Z~",
+    "edtf:cessation": "2019-05-13T08:08:00Z~",
     "edtf:inception": "2019-05-12T22:32:00Z",
     "flysfo:airline": "UA",
     "flysfo:date": "2019-05-12",
@@ -36,23 +36,24 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N27964",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      85922583, 
-      85688637, 
+      1159157777, 
       1159157333, 
       102087579, 
-      102191575, 
-      1159157271, 
-      1377668559, 
+      85688637, 
       1159157337, 
-      1159157777
+      102527513, 
+      102191575, 
+      85633793, 
+      1377668559, 
+      85922583, 
+      1159157271
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "swim:flight_ref": "100985451",
-      "swim:gufi": "KO68247100"
+      "swim:gufi": ""
     },
     "wof:country": "US",
     "wof:created": 1557763346,
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1377668559,
     "wof:involves": [102542801, 102527513, 1159285413, 1159157777, 1159293215],
-    "wof:lastmodified": 1557763485,
+    "wof:lastmodified": 1557771229,
     "wof:name": "UA968 (SFO-AMS)",
     "wof:parent_id": 1159157777,
     "wof:placetype": "event",

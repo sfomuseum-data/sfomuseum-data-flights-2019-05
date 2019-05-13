@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": 1377665265,
   "properties": {
-    "edtf:cessation": "2019-05-13T00:56:53Z~",
+    "edtf:cessation": "2019-05-13T01:02:00Z~",
     "edtf:inception": "2019-05-12T23:26:00Z",
     "flysfo:airline": "UA",
     "flysfo:date": "2019-05-12",
@@ -34,23 +34,24 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N442UA",
     "wof:belongsto": [
-      102191575, 
-      1159157271, 
       102087579, 
-      1159157785, 
-      1159157307, 
       85688637, 
-      85922583, 
+      1159157271, 
+      102191575, 
+      1159157307, 
       102527513, 
-      1159396267, 
       85633793, 
-      1377665265
+      1377665265, 
+      1159396267, 
+      85922583, 
+      1159157785
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "swim:flight_ref": "100991028",
-      "swim:gufi": "KS73148100"
+      "swim:gufi": ""
     },
     "wof:country": "US",
     "wof:created": 1557763311,
@@ -73,7 +74,7 @@
     ],
     "wof:id": 1377665265,
     "wof:involves": [102527513, 102533269, 1159285413, 1159157785, 1159292085],
-    "wof:lastmodified": 1557763481,
+    "wof:lastmodified": 1557771221,
     "wof:name": "UA2398 (SEA-SFO)",
     "wof:parent_id": 1159157785,
     "wof:placetype": "event",

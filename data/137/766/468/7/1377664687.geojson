@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": 1377664687,
   "properties": {
-    "edtf:cessation": "2019-05-13T02:39:14Z~",
+    "edtf:cessation": "2019-05-13T02:29:31Z~",
     "edtf:inception": "2019-05-12T21:55:00Z",
     "flysfo:airline": "UA",
     "flysfo:date": "2019-05-12",
@@ -34,18 +34,19 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N223UA",
     "wof:belongsto": [
+      1159157307, 
       102527513, 
+      1159157271, 
+      102087579, 
       1377664687, 
       1159157761, 
+      85922583, 
       85688637, 
       1159396301, 
       102191575, 
-      85633793, 
-      85922583, 
-      1159157307, 
-      1159157271, 
-      102087579
+      85633793
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -73,7 +74,7 @@
     ],
     "wof:id": 1377664687,
     "wof:involves": [102527513, 102528817, 1159285413, 1159157761, 1159289985],
-    "wof:lastmodified": 1557763479,
+    "wof:lastmodified": 1557771220,
     "wof:name": "UA340 (IAD-SFO)",
     "wof:parent_id": 1159157761,
     "wof:placetype": "event",

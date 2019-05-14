@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": 1377666923,
   "properties": {
-    "edtf:cessation": "2019-05-13T03:58:30Z~",
+    "edtf:cessation": "2019-05-13T04:02:34Z~",
     "edtf:inception": "2019-05-12T22:47:00Z",
     "flysfo:airline": "UA",
     "flysfo:date": "2019-05-12",
@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N831UA",
     "wof:belongsto": [
+      85688637, 
+      102527513, 
       102191575, 
+      85922583, 
+      1159157783, 
       1159396301, 
+      1159157271, 
       85633793, 
       102087579, 
-      102527513, 
-      1159157783, 
-      1159157271, 
-      85688637, 
-      1159157307, 
-      85922583
+      1159157307
     ],
     "wof:concordances": {
       "swim:flight_ref": "100989197",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377666923,
     "wof:involves": [102527513, 102532047, 1159285413, 1159157783, 1159289407],
-    "wof:lastmodified": 1557778098,
+    "wof:lastmodified": 1557793746,
     "wof:name": "UA2059 (BWI-SFO)",
     "wof:parent_id": 1159157783,
     "wof:placetype": "event",

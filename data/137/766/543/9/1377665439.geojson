@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N894UA",
     "wof:belongsto": [
-      85633793, 
       102087579, 
-      85922583, 
+      85633793, 
+      102191575, 
       1159157825, 
       1159396301, 
-      102527513, 
-      102191575, 
+      85922583, 
       85688637, 
       1159157307, 
-      1159157271
+      1159157271, 
+      102527513
     ],
     "wof:concordances": {
       "swim:flight_ref": "100979383",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377665439,
     "wof:involves": [102527513, 102530009, 1159285413, 1159157825, 1159289407],
-    "wof:lastmodified": 1557778095,
+    "wof:lastmodified": 1557793742,
     "wof:name": "UA2243 (MSY-SFO)",
     "wof:parent_id": 1159157825,
     "wof:placetype": "event",

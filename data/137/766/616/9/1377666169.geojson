@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N282VA",
     "wof:belongsto": [
-      85922583, 
       85688637, 
-      102527513, 
+      102087579, 
       1159396121, 
-      1159157271, 
+      102527513, 
       102191575, 
       85633793, 
+      1159396181, 
+      85922583, 
       1159157833, 
-      102087579, 
-      1159396181
+      1159157271
     ],
     "wof:concordances": {
       "swim:flight_ref": "100913983",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377666169,
     "wof:involves": [102527513, 102527209, 1159283813, 1159157833, 1159292085],
-    "wof:lastmodified": 1557778096,
+    "wof:lastmodified": 1557793744,
     "wof:name": "AS1909 (LAS-SFO)",
     "wof:parent_id": 1159157833,
     "wof:placetype": "event",

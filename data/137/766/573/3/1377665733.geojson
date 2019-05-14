@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N425UA",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      102527513, 
-      85633793, 
       85688637, 
+      102191575, 
+      102527513, 
       1159157271, 
-      85922583, 
       1159157783, 
       1159157307, 
-      1159396301
+      1159396301, 
+      85633793, 
+      102087579, 
+      85922583
     ],
     "wof:concordances": {
       "swim:flight_ref": "100917738",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377665733,
     "wof:involves": [102527513, 102527209, 1159285413, 1159157783, 1159292085],
-    "wof:lastmodified": 1557778095,
+    "wof:lastmodified": 1557793742,
     "wof:name": "UA361 (LAS-SFO)",
     "wof:parent_id": 1159157783,
     "wof:placetype": "event",

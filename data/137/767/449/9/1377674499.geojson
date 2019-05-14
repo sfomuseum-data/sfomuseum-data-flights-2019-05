@@ -32,11 +32,11 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N946JL",
     "wof:belongsto": [
+      102085387, 
       85633793, 
       102087579, 
       85922583, 
       554784711, 
-      102085387, 
       85688637, 
       102527513, 
       102191575
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1377674499,
     "wof:involves": [102527513, 102534365, 1360700745, 1159289411],
-    "wof:lastmodified": 1557778112,
+    "wof:lastmodified": 1557793760,
     "wof:name": "B6415 (JFK-SFO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N362VA",
     "wof:belongsto": [
+      85633793, 
+      1159396121, 
+      102527513, 
+      102087579, 
       1159157271, 
       85922583, 
-      85633793, 
-      85688637, 
       1159157705, 
       1159396181, 
       102191575, 
-      102087579, 
-      102527513, 
-      1159396121
+      85688637
     ],
     "wof:concordances": {
       "swim:flight_ref": "101063881",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377668211,
     "wof:involves": [102528817, 102527513, 1159283813, 1159157705, 1159292085],
-    "wof:lastmodified": 1557778102,
+    "wof:lastmodified": 1557793749,
     "wof:name": "AS1102 (SFO-IAD)",
     "wof:parent_id": 1159157705,
     "wof:placetype": "event",

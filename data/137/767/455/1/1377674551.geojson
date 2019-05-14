@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N374HA",
     "wof:belongsto": [
+      1159157333, 
+      1159157271, 
+      85633793, 
       85922583, 
       1159157823, 
       1159157339, 
-      85633793, 
-      1159157333, 
-      102087579, 
-      85688637, 
       102191575, 
-      1159157271, 
-      102527513
+      102527513, 
+      102087579, 
+      85688637
     ],
     "wof:concordances": {
       "swim:flight_ref": "100962349",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377674551,
     "wof:involves": [102532929, 102527513, 1159284489, 1159157823, 1159289421],
-    "wof:lastmodified": 1557778112,
+    "wof:lastmodified": 1557793760,
     "wof:name": "HA41 (SFO-OGG)",
     "wof:parent_id": 1159157823,
     "wof:placetype": "event",

@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": 1377670233,
   "properties": {
-    "edtf:cessation": "2019-05-13T04:06:55Z~",
+    "edtf:cessation": "2019-05-13T04:04:00Z~",
     "edtf:inception": "2019-05-12T23:36:00Z",
     "flysfo:airline": "AC",
     "flysfo:date": "2019-05-12",
@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "CGJWI",
     "wof:belongsto": [
-      85922583, 
-      102087579, 
-      85688637, 
-      1159157679, 
+      85633793, 
       1159157333, 
-      102527513, 
       1159157337, 
-      102191575, 
+      1159157679, 
+      102527513, 
+      85688637, 
       1159157271, 
-      85633793
+      102191575, 
+      102087579, 
+      85922583
     ],
     "wof:concordances": {
       "swim:flight_ref": "100991953",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377670233,
     "wof:involves": [102555091, 102527513, 1159283597, 1159157679, 1159289411],
-    "wof:lastmodified": 1557778107,
+    "wof:lastmodified": 1557793755,
     "wof:name": "AC750 (SFO-YYZ)",
     "wof:parent_id": 1159157679,
     "wof:placetype": "event",

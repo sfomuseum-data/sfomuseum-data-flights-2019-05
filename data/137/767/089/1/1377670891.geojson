@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N629VA",
     "wof:belongsto": [
+      85922583, 
       1159157793, 
-      1159157271, 
+      1159396181, 
       102191575, 
+      1159157271, 
       85688637, 
       1159396121, 
-      1159396181, 
-      85922583, 
       102087579, 
-      85633793, 
-      102527513
+      102527513, 
+      85633793
     ],
     "wof:concordances": {
       "swim:flight_ref": "101054653",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377670891,
     "wof:involves": [102527209, 102527513, 1159283813, 1159157793, 1159292085],
-    "wof:lastmodified": 1557778108,
+    "wof:lastmodified": 1557793757,
     "wof:name": "AS1908 (SFO-LAS)",
     "wof:parent_id": 1159157793,
     "wof:placetype": "event",

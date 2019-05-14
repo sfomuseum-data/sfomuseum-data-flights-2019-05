@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": 1377670319,
   "properties": {
-    "edtf:cessation": "2019-05-13T09:19:38Z~",
+    "edtf:cessation": "2019-05-13T09:35:53Z~",
     "edtf:inception": "2019-05-12T21:34:00Z",
     "flysfo:airline": "UA",
     "flysfo:date": "2019-05-12",
@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N2748U",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
       85922583, 
+      1159157271, 
+      102087579, 
+      102191575, 
       1159157333, 
+      102527513, 
       1159157337, 
       85688637, 
-      1159157685, 
-      1159157271, 
-      102527513, 
-      85633793
+      85633793, 
+      1159157685
     ],
     "wof:concordances": {
       "swim:flight_ref": "100981171",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377670319,
     "wof:involves": [102551487, 102527513, 1159285413, 1159157685, 1159289993],
-    "wof:lastmodified": 1557778107,
+    "wof:lastmodified": 1557793755,
     "wof:name": "UA871 (SFO-TPE)",
     "wof:parent_id": 1159157685,
     "wof:placetype": "event",

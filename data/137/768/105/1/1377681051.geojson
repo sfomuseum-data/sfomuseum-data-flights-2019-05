@@ -2,8 +2,8 @@
   "type": "Feature",
   "id": 1377681051,
   "properties": {
-    "edtf:cessation": "2019-05-13~",
-    "edtf:inception": "2019-05-13~",
+    "edtf:cessation": "2019-05-13T19:09:55Z~",
+    "edtf:inception": "2019-05-13T18:17:00Z",
     "flysfo:airline": "AS",
     "flysfo:date": "2019-05-13",
     "flysfo:event": "departure",
@@ -27,18 +27,23 @@
     "sfomuseum:flight_number": ["AS1972", "ASA1972"],
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
+    "src:geom_alt": ["swim-path"],
+    "swim:tail_number": "N925VA",
     "wof:belongsto": [
-      85688637, 
       1159157271, 
-      102087579, 
-      85922583, 
       102527513, 
-      1159396181, 
       1159157701, 
       1159396121, 
+      85633793, 
+      85922583, 
+      85688637, 
+      102087579, 
       102191575, 
-      85633793
+      1159396181
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "101048572"
+    },
     "wof:country": "US",
     "wof:created": 1557864849,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -59,7 +64,7 @@
     ],
     "wof:id": 1377681051,
     "wof:involves": [102533795, 102527513, 1159283813, 1159157701],
-    "wof:lastmodified": 1557864849,
+    "wof:lastmodified": 1557865527,
     "wof:name": "AS1972 (SFO-LAX)",
     "wof:parent_id": 1159157701,
     "wof:placetype": "event",

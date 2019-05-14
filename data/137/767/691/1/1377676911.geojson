@@ -2,8 +2,8 @@
   "type": "Feature",
   "id": 1377676911,
   "properties": {
-    "edtf:cessation": "2019-05-13~",
-    "edtf:inception": "2019-05-13~",
+    "edtf:cessation": "2019-05-13T21:12:00Z",
+    "edtf:inception": "2019-05-13T20:02:00Z",
     "flysfo:airline": "WN",
     "flysfo:date": "2019-05-13",
     "flysfo:event": "arrival",
@@ -27,18 +27,22 @@
     "sfomuseum:flight_number": ["WN1670", "SWA1670"],
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
+    "src:geom_alt": ["swim-route", "swim-path"],
     "wof:belongsto": [
+      85922583, 
       1159157715, 
-      1159157317, 
-      1159396217, 
-      102191575, 
-      102087579, 
       1159157271, 
       85633793, 
+      1159396217, 
+      1159157317, 
+      102191575, 
       85688637, 
-      85922583, 
-      102527513
+      102527513, 
+      102087579
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "101058806"
+    },
     "wof:country": "US",
     "wof:created": 1557864845,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -59,7 +63,7 @@
     ],
     "wof:id": 1377676911,
     "wof:involves": [102527513, 102527209, 1159285591, 1159157715],
-    "wof:lastmodified": 1557864845,
+    "wof:lastmodified": 1557865509,
     "wof:name": "WN1670 (LAS-SFO)",
     "wof:parent_id": 1159157715,
     "wof:placetype": "event",

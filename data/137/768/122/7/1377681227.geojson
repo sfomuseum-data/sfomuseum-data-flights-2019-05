@@ -38,17 +38,17 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "CGIUE",
     "wof:belongsto": [
-      85922583, 
+      1159157271, 
       1377681227, 
+      85922583, 
+      1159157337, 
       85688637, 
+      1159157779, 
+      1159157333, 
       102527513, 
       102191575, 
       102087579, 
-      1159157333, 
-      1159157337, 
-      85633793, 
-      1159157779, 
-      1159157271
+      85633793
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1377681227,
     "wof:involves": [102555091, 102527513, 1159283597, 1159157779, 1159289411],
-    "wof:lastmodified": 1557849902,
+    "wof:lastmodified": 1557856334,
     "wof:name": "AC758 (SFO-YYZ)",
     "wof:parent_id": 1159157779,
     "wof:placetype": "event",

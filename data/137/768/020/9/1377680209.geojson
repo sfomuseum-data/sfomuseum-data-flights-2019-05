@@ -38,17 +38,17 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N33284",
     "wof:belongsto": [
-      85922583, 
       102087579, 
       1377680209, 
-      1159157307, 
+      1159157271, 
       85688637, 
+      102527513, 
+      1159396301, 
       102191575, 
       85633793, 
       1159157697, 
-      1159157271, 
-      102527513, 
-      1159396301
+      1159157307, 
+      85922583
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1377680209,
     "wof:involves": [102533631, 102527513, 1159285413, 1159157697, 1159289871],
-    "wof:lastmodified": 1557849899,
+    "wof:lastmodified": 1557856330,
     "wof:name": "UA478 (SFO-ORD)",
     "wof:parent_id": 1159157697,
     "wof:placetype": "event",

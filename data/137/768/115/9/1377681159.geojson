@@ -38,17 +38,17 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N76529",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1159157307, 
       1159157767, 
       102527513, 
       1159396267, 
       1377681159, 
-      85922583, 
       85688637, 
       85633793, 
-      1159157271
+      102087579, 
+      1159157271, 
+      102191575, 
+      1159157307, 
+      85922583
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1377681159,
     "wof:involves": [102532929, 102527513, 1159285413, 1159157767, 1159289871],
-    "wof:lastmodified": 1557849902,
+    "wof:lastmodified": 1557856334,
     "wof:name": "UA1749 (SFO-OGG)",
     "wof:parent_id": 1159157767,
     "wof:placetype": "event",

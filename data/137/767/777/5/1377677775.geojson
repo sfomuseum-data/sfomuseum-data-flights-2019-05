@@ -36,17 +36,17 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N8323C",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
+      1159396217, 
       102191575, 
+      85922583, 
+      85688637, 
       85633793, 
       1159157317, 
       1159157271, 
-      1159396217, 
-      85922583, 
       102087579, 
       1377677775, 
-      1159157713
+      1159157713, 
+      102527513
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1377677775,
     "wof:involves": [102527513, 102526751, 1159285591, 1159157713, 1159289871],
-    "wof:lastmodified": 1557849904,
+    "wof:lastmodified": 1557856319,
     "wof:name": "WN1477 (PHX-SFO)",
     "wof:parent_id": 1159157713,
     "wof:placetype": "event",

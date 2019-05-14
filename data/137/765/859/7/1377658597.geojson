@@ -32,14 +32,14 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N855VA",
     "wof:belongsto": [
+      554784711, 
       85688637, 
       102527513, 
+      102085387, 
       102191575, 
       85633793, 
-      102085387, 
       102087579, 
-      85922583, 
-      554784711
+      85922583
     ],
     "wof:concordances": {
       "swim:flight_ref": "100903345",
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1377658597,
     "wof:involves": [102527513, 102530741, 1159283813, 1159292085],
-    "wof:lastmodified": 1557777848,
+    "wof:lastmodified": 1557795970,
     "wof:name": "AS1353 (BOS-SFO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

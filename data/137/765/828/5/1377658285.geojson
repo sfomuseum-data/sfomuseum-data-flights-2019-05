@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N431UA",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      102527513, 
       1159396301, 
-      1159157697, 
+      85922583, 
       1159157307, 
-      102191575, 
       1159157271, 
+      1159157697, 
+      102087579, 
       85688637, 
-      85633793
+      85633793, 
+      102527513, 
+      102191575
     ],
     "wof:concordances": {
       "swim:flight_ref": "100869023",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377658285,
     "wof:involves": [102527513, 102533795, 1159285413, 1159157697, 1159292085],
-    "wof:lastmodified": 1557777847,
+    "wof:lastmodified": 1557795969,
     "wof:name": "UA501 (LAX-SFO)",
     "wof:parent_id": 1159157697,
     "wof:placetype": "event",

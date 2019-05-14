@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N993JE",
     "wof:belongsto": [
-      85688637, 
-      1159157629, 
-      85633793, 
       1159157339, 
+      1159157629, 
+      102087579, 
+      85688637, 
       102191575, 
-      1159157271, 
-      85922583, 
       1159157333, 
+      1159157271, 
       102527513, 
-      102087579
+      85633793, 
+      85922583
     ],
     "wof:concordances": {
       "swim:flight_ref": "100951221",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377674567,
     "wof:involves": [102530741, 102527513, 1360700745, 1159157629, 1159289411],
-    "wof:lastmodified": 1557793760,
+    "wof:lastmodified": 1557796073,
     "wof:name": "B6434 (SFO-BOS)",
     "wof:parent_id": 1159157629,
     "wof:placetype": "event",

@@ -32,14 +32,14 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N564AS",
     "wof:belongsto": [
+      85922583, 
+      554784711, 
+      102085387, 
       85688637, 
       102527513, 
       102191575, 
       85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      102085387
+      102087579
     ],
     "wof:concordances": {
       "swim:flight_ref": "100774874",
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1377656567,
     "wof:involves": [102532251, 102527513, 1159283813, 1159289871],
-    "wof:lastmodified": 1557778024,
+    "wof:lastmodified": 1557795930,
     "wof:name": "AS361 (SFO-PDX)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

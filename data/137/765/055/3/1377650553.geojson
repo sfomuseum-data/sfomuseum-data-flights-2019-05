@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N525VA",
     "wof:belongsto": [
+      102087579, 
+      85922583, 
+      1159157705, 
+      1159157271, 
+      102191575, 
       1159396121, 
       1159396181, 
-      102191575, 
       85633793, 
-      1159157705, 
-      102527513, 
       85688637, 
-      1159157271, 
-      102087579, 
-      85922583
+      102527513
     ],
     "wof:concordances": {
       "swim:flight_ref": "100782290",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377650553,
     "wof:involves": [102527513, 102533795, 1159283813, 1159157705, 1159289407],
-    "wof:lastmodified": 1557778011,
+    "wof:lastmodified": 1557795906,
     "wof:name": "AS1927 (LAX-SFO)",
     "wof:parent_id": 1159157705,
     "wof:placetype": "event",

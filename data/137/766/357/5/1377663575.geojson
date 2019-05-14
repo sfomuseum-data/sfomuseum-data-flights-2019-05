@@ -32,14 +32,14 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "DAIMI",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85922583, 
       554784711, 
       85688637, 
       102085387, 
       102527513, 
-      102191575
+      102191575, 
+      85633793, 
+      102087579, 
+      85922583
     ],
     "wof:concordances": {
       "swim:flight_ref": "100906513",
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1377663575,
     "wof:involves": [102549057, 102527513, 1159284711, 1159289437],
-    "wof:lastmodified": 1557777860,
+    "wof:lastmodified": 1557795989,
     "wof:name": "LH455 (SFO-FRA)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

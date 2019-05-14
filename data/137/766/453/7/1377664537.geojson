@@ -31,15 +31,15 @@
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      102087579, 
+      1159157337, 
       85922583, 
       1159157827, 
       102191575, 
+      102087579, 
       85688637, 
+      102527513, 
       1159157333, 
-      1159157337, 
+      1159157271, 
       85633793
     ],
     "wof:concordances": {
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1377664537,
     "wof:involves": [102527513, 102542801, 1159285413, 1159157827, 1159293215],
-    "wof:lastmodified": 1557793738,
+    "wof:lastmodified": 1557796046,
     "wof:name": "UA969 (AMS-SFO)",
     "wof:parent_id": 1159157827,
     "wof:placetype": "event",

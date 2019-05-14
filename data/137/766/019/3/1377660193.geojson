@@ -31,15 +31,15 @@
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
     "wof:belongsto": [
+      85688637, 
+      1159157271, 
+      1159396301, 
       85633793, 
       102087579, 
-      85688637, 
       1159157741, 
-      1159157271, 
       102527513, 
-      85922583, 
       1159157307, 
-      1159396301, 
+      85922583, 
       102191575
     ],
     "wof:concordances": {
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1377660193,
     "wof:involves": [102527513, 102528943, 1159285413, 1159157741, 1159289871],
-    "wof:lastmodified": 1557777852,
+    "wof:lastmodified": 1557795976,
     "wof:name": "UA1152 (LIH-SFO)",
     "wof:parent_id": 1159157741,
     "wof:placetype": "event",

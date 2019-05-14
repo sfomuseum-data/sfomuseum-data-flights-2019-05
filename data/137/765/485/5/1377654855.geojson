@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N772UA",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
+      85688637, 
       1159157671, 
+      85633793, 
       1159157307, 
       1159157271, 
-      1159396301, 
-      102087579, 
-      102191575, 
       85922583, 
-      85688637
+      102191575, 
+      102527513, 
+      1159396301, 
+      102087579
     ],
     "wof:concordances": {
       "swim:flight_ref": "100778178",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377654855,
     "wof:involves": [102533997, 102527513, 1159285413, 1159157671, 1159289985],
-    "wof:lastmodified": 1557778020,
+    "wof:lastmodified": 1557795923,
     "wof:name": "UA1175 (SFO-HNL)",
     "wof:parent_id": 1159157671,
     "wof:placetype": "event",

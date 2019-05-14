@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N838UA",
     "wof:belongsto": [
+      85633793, 
+      102087579, 
+      85922583, 
+      1159157271, 
       102527513, 
       1159396301, 
-      102087579, 
-      1159157271, 
-      85633793, 
       1159157741, 
       1159157307, 
-      85922583, 
-      85688637, 
-      102191575
+      102191575, 
+      85688637
     ],
     "wof:concordances": {
       "swim:flight_ref": "100726454",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377651347,
     "wof:involves": [102527513, 102534161, 1159285413, 1159157741, 1159289407],
-    "wof:lastmodified": 1557778013,
+    "wof:lastmodified": 1557795909,
     "wof:name": "UA1077 (SNA-SFO)",
     "wof:parent_id": 1159157741,
     "wof:placetype": "event",

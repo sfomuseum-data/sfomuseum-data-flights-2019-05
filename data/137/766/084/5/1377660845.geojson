@@ -32,15 +32,15 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N282VA",
     "wof:belongsto": [
-      85688637, 
-      1159396181, 
       1159157271, 
       102527513, 
-      102191575, 
-      102087579, 
       85922583, 
       1159157705, 
+      1159396181, 
+      102191575, 
       85633793, 
+      102087579, 
+      85688637, 
       1159396121
     ],
     "wof:concordances": {
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377660845,
     "wof:involves": [102527209, 102527513, 1159283813, 1159157705, 1159292085],
-    "wof:lastmodified": 1557777854,
+    "wof:lastmodified": 1557795978,
     "wof:name": "AS1908 (SFO-LAS)",
     "wof:parent_id": 1159157705,
     "wof:placetype": "event",

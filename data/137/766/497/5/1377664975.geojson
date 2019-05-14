@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N579AS",
     "wof:belongsto": [
-      1159396121, 
-      102191575, 
-      85688637, 
       1159157271, 
-      102527513, 
-      102087579, 
+      85922583, 
       1159157829, 
+      85688637, 
+      1159396121, 
+      102527513, 
+      102191575, 
       1159396181, 
       85633793, 
-      85922583
+      102087579
     ],
     "wof:concordances": {
       "swim:flight_ref": "100968221",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377664975,
     "wof:involves": [102527513, 102532251, 1159283813, 1159157829, 1159289871],
-    "wof:lastmodified": 1557793740,
+    "wof:lastmodified": 1557796048,
     "wof:name": "AS391 (PDX-SFO)",
     "wof:parent_id": 1159157829,
     "wof:placetype": "event",

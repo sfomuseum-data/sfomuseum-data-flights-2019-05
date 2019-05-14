@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N638VA",
     "wof:belongsto": [
-      85922583, 
+      1159157323, 
       85688637, 
       1159157753, 
-      1159157323, 
-      102191575, 
-      1159157317, 
       1159157271, 
       102527513, 
+      1159157317, 
+      102191575, 
       85633793, 
-      102087579
+      102087579, 
+      85922583
     ],
     "wof:concordances": {
       "swim:flight_ref": "100963578",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377671657,
     "wof:involves": [102521851, 102527513, 1159283813, 1159157753, 1159292085],
-    "wof:lastmodified": 1557793759,
+    "wof:lastmodified": 1557796072,
     "wof:name": "AS1218 (SFO-AUS)",
     "wof:parent_id": 1159157753,
     "wof:placetype": "event",

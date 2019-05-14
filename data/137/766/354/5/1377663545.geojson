@@ -30,6 +30,7 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N627VA",
     "wof:belongsto": [
       85633793, 
       102087579, 
@@ -67,7 +68,7 @@
     ],
     "wof:id": 1377663545,
     "wof:involves": [102536441, 102527513, 1159283813, 1159292085],
-    "wof:lastmodified": 1557777860,
+    "wof:lastmodified": 1557795989,
     "wof:name": "AS1274 (SFO-SJD)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N494WN",
     "wof:belongsto": [
-      1159157317, 
-      102191575, 
       85633793, 
+      1159157713, 
       102087579, 
-      85688637, 
       102527513, 
       1159396217, 
-      1159157713, 
-      1159157271, 
-      85922583
+      102191575, 
+      85688637, 
+      85922583, 
+      1159157317, 
+      1159157271
     ],
     "wof:concordances": {
       "swim:flight_ref": "100957050",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377666015,
     "wof:involves": [102527513, 102528997, 1159285591, 1159157713, 1159289869],
-    "wof:lastmodified": 1557793743,
+    "wof:lastmodified": 1557796051,
     "wof:name": "WN3574 (SAN-SFO)",
     "wof:parent_id": 1159157713,
     "wof:placetype": "event",

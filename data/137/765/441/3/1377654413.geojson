@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N838UA",
     "wof:belongsto": [
-      102191575, 
-      85688637, 
-      102527513, 
-      1159157307, 
-      85633793, 
       102087579, 
+      1159157271, 
       1159396267, 
+      102191575, 
+      85633793, 
+      1159157307, 
       85922583, 
       1159157789, 
-      1159157271
+      102527513, 
+      85688637
     ],
     "wof:concordances": {
       "swim:flight_ref": "100823247",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377654413,
     "wof:involves": [102528997, 102527513, 1159285413, 1159157789, 1159289407],
-    "wof:lastmodified": 1557778019,
+    "wof:lastmodified": 1557795922,
     "wof:name": "UA671 (SFO-SAN)",
     "wof:parent_id": 1159157789,
     "wof:placetype": "event",

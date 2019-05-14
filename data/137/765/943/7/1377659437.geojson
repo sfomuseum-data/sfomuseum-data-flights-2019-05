@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N417UA",
     "wof:belongsto": [
-      85633793, 
-      1159157825, 
-      102527513, 
       1159396301, 
-      102191575, 
-      1159157307, 
       1159157271, 
+      1159157825, 
+      102191575, 
+      85633793, 
+      102087579, 
       85922583, 
       85688637, 
-      102087579
+      1159157307, 
+      102527513
     ],
     "wof:concordances": {
       "swim:flight_ref": "100902839",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377659437,
     "wof:involves": [102527513, 102533269, 1159285413, 1159157825, 1159292085],
-    "wof:lastmodified": 1557777850,
+    "wof:lastmodified": 1557795973,
     "wof:name": "UA816 (SEA-SFO)",
     "wof:parent_id": 1159157825,
     "wof:placetype": "event",

@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N211UA",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      102191575, 
       1159157307, 
-      1159157271, 
       102087579, 
-      85922583, 
       85688637, 
       1159396301, 
-      1159157671
+      85922583, 
+      1159157671, 
+      1159157271, 
+      102191575, 
+      85633793, 
+      102527513
     ],
     "wof:concordances": {
       "swim:flight_ref": "100902833",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377663869,
     "wof:involves": [102533997, 102527513, 1159285413, 1159157671, 1159289985],
-    "wof:lastmodified": 1557777861,
+    "wof:lastmodified": 1557795990,
     "wof:name": "UA300 (SFO-HNL)",
     "wof:parent_id": 1159157671,
     "wof:placetype": "event",

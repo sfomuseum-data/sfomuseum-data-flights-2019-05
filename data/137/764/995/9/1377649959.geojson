@@ -32,14 +32,14 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N363VA",
     "wof:belongsto": [
+      85688637, 
+      102527513, 
+      102085387, 
+      102191575, 
       85633793, 
       102087579, 
       85922583, 
-      554784711, 
-      102085387, 
-      85688637, 
-      102527513, 
-      102191575
+      554784711
     ],
     "wof:concordances": {
       "swim:flight_ref": "100803971",
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1377649959,
     "wof:involves": [102527513, 102532251, 1159283813, 1159292085],
-    "wof:lastmodified": 1557778010,
+    "wof:lastmodified": 1557795903,
     "wof:name": "AS1282 (PDX-SFO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

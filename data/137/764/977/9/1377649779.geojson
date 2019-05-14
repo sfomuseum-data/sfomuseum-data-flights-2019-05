@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N240WN",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
       1159157813, 
+      1159157317, 
+      1159396217, 
+      85633793, 
       102087579, 
       85688637, 
-      1159157317, 
-      1159157271, 
+      102527513, 
       102191575, 
-      1159396217, 
-      102527513
+      85922583, 
+      1159157271
     ],
     "wof:concordances": {
       "swim:flight_ref": "100797572",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377649779,
     "wof:involves": [102527513, 102521851, 1159285591, 1159157813, 1159289869],
-    "wof:lastmodified": 1557778010,
+    "wof:lastmodified": 1557795903,
     "wof:name": "WN2076 (AUS-SFO)",
     "wof:parent_id": 1159157813,
     "wof:placetype": "event",

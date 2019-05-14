@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N8323C",
     "wof:belongsto": [
-      1159157317, 
-      102527513, 
       102087579, 
-      85922583, 
-      85688637, 
       1159157811, 
+      102527513, 
+      1159157317, 
       102191575, 
       85633793, 
       1159157271, 
-      1159396217
+      1159396217, 
+      85922583, 
+      85688637
     ],
     "wof:concordances": {
       "swim:flight_ref": "100788856",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377657163,
     "wof:involves": [102527209, 102527513, 1159285591, 1159157811, 1159289871],
-    "wof:lastmodified": 1557778026,
+    "wof:lastmodified": 1557795932,
     "wof:name": "WN1478 (SFO-LAS)",
     "wof:parent_id": 1159157811,
     "wof:placetype": "event",

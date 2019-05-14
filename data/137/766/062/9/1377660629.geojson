@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N276WN",
     "wof:belongsto": [
-      1159157715, 
+      85633793, 
       102087579, 
       1159396217, 
-      85922583, 
-      102527513, 
-      85633793, 
+      1159157715, 
+      1159157271, 
       102191575, 
-      85688637, 
       1159157317, 
-      1159157271
+      102527513, 
+      85922583, 
+      85688637
     ],
     "wof:concordances": {
       "swim:flight_ref": "100894992",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377660629,
     "wof:involves": [102527513, 102532771, 1159285591, 1159157715, 1159289869],
-    "wof:lastmodified": 1557777853,
+    "wof:lastmodified": 1557795978,
     "wof:name": "WN3899 (BUR-SFO)",
     "wof:parent_id": 1159157715,
     "wof:placetype": "event",

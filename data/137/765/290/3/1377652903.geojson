@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N588UA",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85688637, 
-      102527513, 
+      1159157307, 
       1159157271, 
       1159396267, 
       102191575, 
+      85688637, 
+      102527513, 
       85633793, 
-      1159157789, 
-      1159157307
+      102087579, 
+      85922583, 
+      1159157789
     ],
     "wof:concordances": {
       "swim:flight_ref": "100758309",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377652903,
     "wof:involves": [102527513, 102530741, 1159285413, 1159157789, 1159289939],
-    "wof:lastmodified": 1557778016,
+    "wof:lastmodified": 1557795916,
     "wof:name": "UA207 (BOS-SFO)",
     "wof:parent_id": 1159157789,
     "wof:placetype": "event",

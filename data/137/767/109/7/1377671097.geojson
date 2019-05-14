@@ -30,17 +30,18 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N778SW",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
       102087579, 
-      85688637, 
       1159396217, 
       102191575, 
+      85633793, 
+      85688637, 
       1159157271, 
-      1159157809, 
+      85922583, 
       1159157317, 
-      85922583
+      102527513, 
+      1159157809
     ],
     "wof:concordances": {
       "swim:flight_ref": "100968654",
@@ -66,7 +67,7 @@
     ],
     "wof:id": 1377671097,
     "wof:involves": [102533795, 102527513, 1159285591, 1159157809, 1159289869],
-    "wof:lastmodified": 1557793757,
+    "wof:lastmodified": 1557796070,
     "wof:name": "WN5094 (SFO-LAX)",
     "wof:parent_id": 1159157809,
     "wof:placetype": "event",

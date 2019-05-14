@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N708JB",
     "wof:belongsto": [
-      85922583, 
-      102087579, 
-      85688637, 
+      85633793, 
       1159157333, 
+      1159157271, 
       1159157605, 
+      102191575, 
       102527513, 
       1159157339, 
-      1159157271, 
-      102191575, 
-      85633793
+      85922583, 
+      85688637, 
+      102087579
     ],
     "wof:concordances": {
       "swim:flight_ref": "100956126",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377674615,
     "wof:involves": [102528985, 102527513, 1360700745, 1159157605, 1159292085],
-    "wof:lastmodified": 1557793760,
+    "wof:lastmodified": 1557796073,
     "wof:name": "B61235 (SFO-LGB)",
     "wof:parent_id": 1159157605,
     "wof:placetype": "event",

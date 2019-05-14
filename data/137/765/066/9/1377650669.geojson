@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N596UA",
     "wof:belongsto": [
-      85922583, 
-      1159157757, 
       102527513, 
+      1159157757, 
       85633793, 
       102087579, 
-      85688637, 
-      1159157271, 
       1159396301, 
-      102191575, 
-      1159157307
+      1159157271, 
+      85922583, 
+      85688637, 
+      1159157307, 
+      102191575
     ],
     "wof:concordances": {
       "swim:flight_ref": "100735564",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377650669,
     "wof:involves": [102527513, 102530049, 1159285413, 1159157757, 1159289939],
-    "wof:lastmodified": 1557778011,
+    "wof:lastmodified": 1557795906,
     "wof:name": "UA210 (EWR-SFO)",
     "wof:parent_id": 1159157757,
     "wof:placetype": "event",

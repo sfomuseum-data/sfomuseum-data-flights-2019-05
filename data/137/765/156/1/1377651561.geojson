@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N805UA",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
+      85922583, 
       85688637, 
-      102527513, 
+      102191575, 
+      1159157307, 
       1159396301, 
+      85633793, 
+      102527513, 
       1159157697, 
       1159157271, 
-      1159157307, 
-      102191575, 
-      85922583
+      102087579
     ],
     "wof:concordances": {
       "swim:flight_ref": "100783374",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377651561,
     "wof:involves": [102527513, 102533269, 1159285413, 1159157697, 1159289407],
-    "wof:lastmodified": 1557778013,
+    "wof:lastmodified": 1557795910,
     "wof:name": "UA698 (SEA-SFO)",
     "wof:parent_id": 1159157697,
     "wof:placetype": "event",

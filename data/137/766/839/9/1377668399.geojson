@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "CFKOJ",
     "wof:belongsto": [
-      102087579, 
-      85633793, 
-      102527513, 
-      102191575, 
       1159157271, 
+      1159157337, 
+      85633793, 
+      102087579, 
       85688637, 
       1159157333, 
-      1159157337, 
+      1159157775, 
+      102527513, 
       85922583, 
-      1159157775
+      102191575
     ],
     "wof:concordances": {
       "swim:flight_ref": "100976745",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377668399,
     "wof:involves": [102555307, 102527513, 1159283597, 1159157775, 1159292085],
-    "wof:lastmodified": 1557793750,
+    "wof:lastmodified": 1557796060,
     "wof:name": "AC569 (SFO-YVR)",
     "wof:parent_id": 1159157775,
     "wof:placetype": "event",

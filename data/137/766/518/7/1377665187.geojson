@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N829UA",
     "wof:belongsto": [
+      102191575, 
       1159157307, 
-      1159157271, 
       85633793, 
-      102527513, 
-      1159396301, 
+      85922583, 
       102087579, 
       85688637, 
-      102191575, 
+      102527513, 
+      1159396301, 
       1159157825, 
-      85922583
+      1159157271
     ],
     "wof:concordances": {
       "swim:flight_ref": "100936644",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377665187,
     "wof:involves": [102527513, 102528187, 1159285413, 1159157825, 1159289407],
-    "wof:lastmodified": 1557793741,
+    "wof:lastmodified": 1557796048,
     "wof:name": "UA357 (CVG-SFO)",
     "wof:parent_id": 1159157825,
     "wof:placetype": "event",

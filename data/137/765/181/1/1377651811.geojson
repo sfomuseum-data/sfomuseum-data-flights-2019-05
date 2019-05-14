@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N835VA",
     "wof:belongsto": [
-      1159396121, 
-      1159396181, 
-      102087579, 
+      102191575, 
       85688637, 
-      85633793, 
-      85922583, 
       1159157705, 
+      102087579, 
+      1159396121, 
       1159157271, 
+      1159396181, 
       102527513, 
-      102191575
+      85633793, 
+      85922583
     ],
     "wof:concordances": {
       "swim:flight_ref": "100800047",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377651811,
     "wof:involves": [102527513, 102533269, 1159283813, 1159157705, 1159292085],
-    "wof:lastmodified": 1557778014,
+    "wof:lastmodified": 1557795911,
     "wof:name": "AS1076 (SEA-SFO)",
     "wof:parent_id": 1159157705,
     "wof:placetype": "event",

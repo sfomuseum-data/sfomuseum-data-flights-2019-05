@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N755SA",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102527513, 
+      1159157317, 
       102087579, 
       85688637, 
-      85922583, 
       1159157271, 
+      85633793, 
+      1159396217, 
+      85922583, 
       1159157715, 
-      1159157317, 
-      1159396217
+      102527513, 
+      102191575
     ],
     "wof:concordances": {
       "swim:flight_ref": "100868070",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377659749,
     "wof:involves": [102527513, 102527209, 1159285591, 1159157715, 1159289869],
-    "wof:lastmodified": 1557777851,
+    "wof:lastmodified": 1557795974,
     "wof:name": "WN4521 (LAS-SFO)",
     "wof:parent_id": 1159157715,
     "wof:placetype": "event",

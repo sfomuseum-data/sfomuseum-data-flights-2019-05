@@ -30,17 +30,18 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "HL8359",
     "wof:belongsto": [
       102087579, 
       85688637, 
-      1159157271, 
+      1159157337, 
+      85633793, 
       102191575, 
       85922583, 
       1159157815, 
       1159157333, 
-      102527513, 
-      1159157337, 
-      85633793
+      1159157271, 
+      102527513
     ],
     "wof:concordances": {
       "swim:flight_ref": "100928328",
@@ -66,7 +67,7 @@
     ],
     "wof:id": 1377671773,
     "wof:involves": [102556451, 102527513, 1159283917, 1159157815, 1377564293],
-    "wof:lastmodified": 1557793759,
+    "wof:lastmodified": 1557796072,
     "wof:name": "OZ211 (SFO-ICN)",
     "wof:parent_id": 1159157815,
     "wof:placetype": "event",

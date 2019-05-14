@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N446UA",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      1159396267, 
-      102191575, 
       1159157653, 
+      1159157307, 
       1159157271, 
-      85633793, 
+      1159396267, 
       85922583, 
+      102191575, 
+      85633793, 
+      102087579, 
       85688637, 
-      1159157307
+      102527513
     ],
     "wof:concordances": {
       "swim:flight_ref": "100923624",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377669147,
     "wof:involves": [102533927, 102527513, 1159285413, 1159157653, 1159292085],
-    "wof:lastmodified": 1557793752,
+    "wof:lastmodified": 1557796063,
     "wof:name": "UA2317 (SFO-EUG)",
     "wof:parent_id": 1159157653,
     "wof:placetype": "event",

@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N769UA",
     "wof:belongsto": [
-      102527513, 
+      85922583, 
+      1159157671, 
+      1159157271, 
       1159396301, 
       85633793, 
       102087579, 
-      85922583, 
-      1159157671, 
-      102191575, 
       1159157307, 
-      1159157271, 
-      85688637
+      85688637, 
+      102527513, 
+      102191575
     ],
     "wof:concordances": {
       "swim:flight_ref": "100913043",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377663751,
     "wof:involves": [102533997, 102527513, 1159285413, 1159157671, 1159289985],
-    "wof:lastmodified": 1557777861,
+    "wof:lastmodified": 1557795990,
     "wof:name": "UA1509 (SFO-HNL)",
     "wof:parent_id": 1159157671,
     "wof:placetype": "event",

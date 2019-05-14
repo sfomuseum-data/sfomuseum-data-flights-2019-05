@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N8649A",
     "wof:belongsto": [
+      85688637, 
+      1159157713, 
       1159157271, 
       102527513, 
-      1159157713, 
-      102191575, 
       85633793, 
-      85688637, 
-      1159157317, 
+      85922583, 
       1159396217, 
+      102191575, 
       102087579, 
-      85922583
+      1159157317
     ],
     "wof:concordances": {
       "swim:flight_ref": "100768397",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377655285,
     "wof:involves": [102521851, 102527513, 1159285591, 1159157713, 1159289871],
-    "wof:lastmodified": 1557778021,
+    "wof:lastmodified": 1557795925,
     "wof:name": "WN1627 (SFO-AUS)",
     "wof:parent_id": 1159157713,
     "wof:placetype": "event",

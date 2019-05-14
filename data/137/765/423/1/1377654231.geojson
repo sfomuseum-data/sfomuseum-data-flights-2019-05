@@ -30,17 +30,18 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N512AS",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
       1159157271, 
-      102527513, 
       1159396181, 
-      1159157701, 
-      1159396121, 
+      102191575, 
       85633793, 
+      1159396121, 
+      1159157701, 
       85922583, 
-      85688637
+      102087579, 
+      85688637, 
+      102527513
     ],
     "wof:concordances": {
       "swim:flight_ref": "100768375",
@@ -66,7 +67,7 @@
     ],
     "wof:id": 1377654231,
     "wof:involves": [102532929, 102527513, 1159283813, 1159157701, 1159289871],
-    "wof:lastmodified": 1557778019,
+    "wof:lastmodified": 1557795921,
     "wof:name": "AS661 (SFO-OGG)",
     "wof:parent_id": 1159157701,
     "wof:placetype": "event",

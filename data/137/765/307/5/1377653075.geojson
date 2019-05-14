@@ -33,10 +33,10 @@
     "swim:tail_number": "N365VA",
     "wof:belongsto": [
       85922583, 
+      102085387, 
       554784711, 
       85688637, 
       102527513, 
-      102085387, 
       102191575, 
       85633793, 
       102087579
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1377653075,
     "wof:involves": [102527513, 102528997, 1159283813, 1159292085],
-    "wof:lastmodified": 1557778016,
+    "wof:lastmodified": 1557795917,
     "wof:name": "AS1963 (SAN-SFO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N62849",
     "wof:belongsto": [
-      85922583, 
       1159157307, 
-      1159157271, 
+      102527513, 
       102191575, 
+      1159157271, 
       85633793, 
       102087579, 
-      1159396267, 
-      1159157789, 
+      85922583, 
       85688637, 
-      102527513
+      1159157789, 
+      1159396267
     ],
     "wof:concordances": {
       "swim:flight_ref": "100865324",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377662113,
     "wof:involves": [102534097, 102527513, 1159285413, 1159157789, 1377564285],
-    "wof:lastmodified": 1557777857,
+    "wof:lastmodified": 1557795983,
     "wof:name": "UA540 (SFO-IAH)",
     "wof:parent_id": 1159157789,
     "wof:placetype": "event",

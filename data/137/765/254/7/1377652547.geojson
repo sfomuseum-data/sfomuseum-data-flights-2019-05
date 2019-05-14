@@ -31,16 +31,16 @@
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
     "wof:belongsto": [
-      102191575, 
       102087579, 
+      85922583, 
       1159157677, 
-      85688637, 
-      102527513, 
-      1159157337, 
-      85633793, 
       1159157333, 
+      1159157337, 
+      85688637, 
+      102191575, 
       1159157271, 
-      85922583
+      102527513, 
+      85633793
     ],
     "wof:concordances": {
       "swim:flight_ref": "100746829",
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1377652547,
     "wof:involves": [102527513, 102541661, 1159285413, 1159157677, 1159293215],
-    "wof:lastmodified": 1557778015,
+    "wof:lastmodified": 1557795914,
     "wof:name": "UA34 (KIX-SFO)",
     "wof:parent_id": 1159157677,
     "wof:placetype": "event",

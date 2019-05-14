@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N462AS",
     "wof:belongsto": [
-      102087579, 
+      102527513, 
+      1159396181, 
+      85688637, 
+      1159157271, 
       85922583, 
       1159157833, 
       1159396121, 
-      102191575, 
       85633793, 
-      1159157271, 
-      102527513, 
-      1159396181, 
-      85688637
+      102191575, 
+      102087579
     ],
     "wof:concordances": {
       "swim:flight_ref": "100777569",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377655829,
     "wof:involves": [102533997, 102527513, 1159283813, 1159157833, 1377564285],
-    "wof:lastmodified": 1557778022,
+    "wof:lastmodified": 1557795927,
     "wof:name": "AS763 (SFO-HNL)",
     "wof:parent_id": 1159157833,
     "wof:placetype": "event",

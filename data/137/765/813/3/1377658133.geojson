@@ -32,14 +32,14 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N286VA",
     "wof:belongsto": [
-      554784711, 
-      85688637, 
       102527513, 
+      102085387, 
       102191575, 
       85633793, 
-      102085387, 
       102087579, 
-      85922583
+      85922583, 
+      554784711, 
+      85688637
     ],
     "wof:concordances": {
       "swim:flight_ref": "100878219",
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1377658133,
     "wof:involves": [102527513, 102533269, 1159283813, 1159292085],
-    "wof:lastmodified": 1557777847,
+    "wof:lastmodified": 1557795968,
     "wof:name": "AS1305 (SEA-SFO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

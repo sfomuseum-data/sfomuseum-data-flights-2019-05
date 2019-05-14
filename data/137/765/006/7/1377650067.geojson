@@ -31,16 +31,16 @@
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      85922583, 
       1159157307, 
       1159157271, 
-      1159157771, 
-      85633793, 
       102527513, 
+      102087579, 
+      85688637, 
+      1159157771, 
+      102191575, 
+      85922583, 
       1159396267, 
-      102191575
+      85633793
     ],
     "wof:concordances": {
       "swim:flight_ref": "100746211",
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1377650067,
     "wof:involves": [102527513, 102528943, 1159285413, 1159157771, 1159289871],
-    "wof:lastmodified": 1557778010,
+    "wof:lastmodified": 1557795904,
     "wof:name": "UA1746 (LIH-SFO)",
     "wof:parent_id": 1159157771,
     "wof:placetype": "event",

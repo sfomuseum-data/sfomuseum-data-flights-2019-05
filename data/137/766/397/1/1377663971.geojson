@@ -32,14 +32,14 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N837VA",
     "wof:belongsto": [
+      102087579, 
       85922583, 
       554784711, 
       85688637, 
       102527513, 
       102085387, 
       102191575, 
-      85633793, 
-      102087579
+      85633793
     ],
     "wof:concordances": {
       "swim:flight_ref": "100886772",
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1377663971,
     "wof:involves": [102527209, 102527513, 1159283813, 1159292085],
-    "wof:lastmodified": 1557777861,
+    "wof:lastmodified": 1557795990,
     "wof:name": "AS1896 (SFO-LAS)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

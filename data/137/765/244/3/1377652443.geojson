@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N527VA",
     "wof:belongsto": [
-      85922583, 
+      1159396181, 
+      102191575, 
       85633793, 
+      102087579, 
+      85922583, 
       1159157703, 
       1159396121, 
       1159157271, 
-      102191575, 
-      102087579, 
-      85688637, 
       102527513, 
-      1159396181
+      85688637
     ],
     "wof:concordances": {
       "swim:flight_ref": "100814285",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377652443,
     "wof:involves": [102527513, 102527209, 1159283813, 1159157703, 1159289407],
-    "wof:lastmodified": 1557778015,
+    "wof:lastmodified": 1557795914,
     "wof:name": "AS1913 (LAS-SFO)",
     "wof:parent_id": 1159157703,
     "wof:placetype": "event",

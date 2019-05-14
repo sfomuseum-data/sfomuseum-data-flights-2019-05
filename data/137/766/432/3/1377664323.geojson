@@ -32,14 +32,14 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N362VA",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
       102085387, 
+      85633793, 
       102087579, 
       85922583, 
       554784711, 
-      85688637
+      85688637, 
+      102527513, 
+      102191575
     ],
     "wof:concordances": {
       "swim:flight_ref": "100944657",
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1377664323,
     "wof:involves": [102527513, 102528997, 1159283813, 1159292085],
-    "wof:lastmodified": 1557793738,
+    "wof:lastmodified": 1557796046,
     "wof:name": "AS1951 (SAN-SFO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

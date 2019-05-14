@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N236AK",
     "wof:belongsto": [
-      85633793, 
       1159157793, 
-      1159157271, 
+      1159396121, 
       102527513, 
       1159396181, 
-      102087579, 
+      85922583, 
       102191575, 
-      85688637, 
-      1159396121, 
-      85922583
+      1159157271, 
+      85633793, 
+      102087579, 
+      85688637
     ],
     "wof:concordances": {
       "swim:flight_ref": "100793279",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377651697,
     "wof:involves": [102527513, 102533269, 1159283813, 1159157793, 1377564285],
-    "wof:lastmodified": 1557778013,
+    "wof:lastmodified": 1557795911,
     "wof:name": "AS304 (SEA-SFO)",
     "wof:parent_id": 1159157793,
     "wof:placetype": "event",

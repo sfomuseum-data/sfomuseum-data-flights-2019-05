@@ -32,14 +32,14 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N979JT",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
       102527513, 
       102191575, 
       85633793, 
-      102085387
+      102085387, 
+      102087579, 
+      85922583, 
+      554784711, 
+      85688637
     ],
     "wof:concordances": {
       "swim:flight_ref": "100765378",
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1377674279,
     "wof:involves": [102527513, 102530741, 1360700745, 1159289411],
-    "wof:lastmodified": 1557778027,
+    "wof:lastmodified": 1557795937,
     "wof:name": "B61833 (BOS-SFO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

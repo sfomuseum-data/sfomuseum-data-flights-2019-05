@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N838UA",
     "wof:belongsto": [
-      85688637, 
-      1159157783, 
-      1159157307, 
       1159157271, 
-      1159396301, 
-      85922583, 
       102527513, 
+      1159396301, 
       102191575, 
       85633793, 
-      102087579
+      102087579, 
+      85922583, 
+      1159157783, 
+      1159157307, 
+      85688637
     ],
     "wof:concordances": {
       "swim:flight_ref": "100977096",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377670655,
     "wof:involves": [102536579, 102527513, 1159285413, 1159157783, 1159289407],
-    "wof:lastmodified": 1557793756,
+    "wof:lastmodified": 1557796068,
     "wof:name": "UA821 (SFO-MEX)",
     "wof:parent_id": 1159157783,
     "wof:placetype": "event",

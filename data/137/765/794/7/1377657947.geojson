@@ -31,16 +31,16 @@
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1159157687, 
       1159157271, 
-      102527513, 
       1159157337, 
+      102527513, 
+      85633793, 
       85688637, 
-      102087579, 
+      85922583, 
+      1159157687, 
       1159157333, 
-      85922583
+      102191575, 
+      102087579
     ],
     "wof:concordances": {
       "swim:flight_ref": "100851077",
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1377657947,
     "wof:involves": [102527513, 102556703, 1159285413, 1159157687, 1159289985],
-    "wof:lastmodified": 1557777846,
+    "wof:lastmodified": 1557795968,
     "wof:name": "UA949 (LHR-SFO)",
     "wof:parent_id": 1159157687,
     "wof:placetype": "event",

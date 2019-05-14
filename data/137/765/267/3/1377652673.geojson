@@ -31,16 +31,16 @@
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
     "wof:belongsto": [
+      102527513, 
+      102191575, 
       1159157271, 
       102087579, 
-      1159157333, 
+      85922583, 
       85688637, 
-      102527513, 
       1159157779, 
       1159157337, 
-      102191575, 
-      85633793, 
-      85922583
+      1159157333, 
+      85633793
     ],
     "wof:concordances": {
       "swim:flight_ref": "100800685",
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1377652673,
     "wof:involves": [102527513, 102536441, 1159285413, 1159157779, 1159289871],
-    "wof:lastmodified": 1557778016,
+    "wof:lastmodified": 1557795915,
     "wof:name": "UA1687 (SJD-SFO)",
     "wof:parent_id": 1159157779,
     "wof:placetype": "event",

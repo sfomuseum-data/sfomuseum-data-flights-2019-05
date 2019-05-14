@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N831UA",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102191575, 
-      85922583, 
       1159157783, 
-      1159396301, 
       1159157271, 
       85633793, 
+      85922583, 
+      102527513, 
+      1159396301, 
+      102191575, 
       102087579, 
-      1159157307
+      1159157307, 
+      85688637
     ],
     "wof:concordances": {
       "swim:flight_ref": "100989197",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377666923,
     "wof:involves": [102527513, 102532047, 1159285413, 1159157783, 1159289407],
-    "wof:lastmodified": 1557793746,
+    "wof:lastmodified": 1557796054,
     "wof:name": "UA2059 (BWI-SFO)",
     "wof:parent_id": 1159157783,
     "wof:placetype": "event",

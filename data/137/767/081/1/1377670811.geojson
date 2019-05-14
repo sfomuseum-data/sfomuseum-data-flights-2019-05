@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N27958",
     "wof:belongsto": [
-      1159157333, 
-      1159157271, 
       85922583, 
       85633793, 
-      1159157657, 
+      1159157271, 
       1159157337, 
+      1159157657, 
+      102191575, 
       102087579, 
       85688637, 
-      102527513, 
-      102191575
+      1159157333, 
+      102527513
     ],
     "wof:concordances": {
       "swim:flight_ref": "100934334",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377670811,
     "wof:involves": [102551593, 102527513, 1159285413, 1159157657, 1159293215],
-    "wof:lastmodified": 1557793757,
+    "wof:lastmodified": 1557796069,
     "wof:name": "UA1 (SFO-SIN)",
     "wof:parent_id": 1159157657,
     "wof:placetype": "event",

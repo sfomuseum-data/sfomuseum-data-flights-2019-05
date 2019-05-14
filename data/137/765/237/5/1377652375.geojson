@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N497UA",
     "wof:belongsto": [
-      1159396301, 
       102087579, 
-      85922583, 
-      1159157741, 
-      102191575, 
-      102527513, 
       1159157307, 
       1159157271, 
+      1159157741, 
+      102527513, 
+      1159396301, 
+      102191575, 
+      85688637, 
       85633793, 
-      85688637
+      85922583
     ],
     "wof:concordances": {
       "swim:flight_ref": "100781186",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377652375,
     "wof:involves": [102527513, 102528997, 1159285413, 1159157741, 1159292085],
-    "wof:lastmodified": 1557778015,
+    "wof:lastmodified": 1557795914,
     "wof:name": "UA794 (SAN-SFO)",
     "wof:parent_id": 1159157741,
     "wof:placetype": "event",

@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N823UA",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
       1159157733, 
-      1159157271, 
+      102527513, 
+      85633793, 
+      1159396267, 
       102087579, 
       85922583, 
       85688637, 
-      1159396267, 
       1159157307, 
-      102527513
+      102191575, 
+      1159157271
     ],
     "wof:concordances": {
       "swim:flight_ref": "100756486",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377651783,
     "wof:involves": [102527513, 102521851, 1159285413, 1159157733, 1159289407],
-    "wof:lastmodified": 1557778014,
+    "wof:lastmodified": 1557795911,
     "wof:name": "UA2123 (AUS-SFO)",
     "wof:parent_id": 1159157733,
     "wof:placetype": "event",

@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N634VA",
     "wof:belongsto": [
-      85633793, 
+      1159157317, 
+      85688637, 
+      1159157271, 
+      102527513, 
+      102087579, 
       85922583, 
       1159157753, 
-      1159157317, 
-      102527513, 
       1159157323, 
       102191575, 
-      1159157271, 
-      85688637, 
-      102087579
+      85633793
     ],
     "wof:concordances": {
       "swim:flight_ref": "100885221",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377661961,
     "wof:involves": [102533795, 102527513, 1159283813, 1159157753, 1159292085],
-    "wof:lastmodified": 1557777856,
+    "wof:lastmodified": 1557795983,
     "wof:name": "AS1972 (SFO-LAX)",
     "wof:parent_id": 1159157753,
     "wof:placetype": "event",

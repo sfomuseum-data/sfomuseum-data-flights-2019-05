@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N779UA",
     "wof:belongsto": [
-      85688637, 
-      1159157307, 
       1159157271, 
+      1159157307, 
+      85688637, 
       1159396301, 
       85633793, 
       85922583, 
-      102527513, 
-      1159157821, 
       102191575, 
-      102087579
+      102087579, 
+      1159157821, 
+      102527513
     ],
     "wof:concordances": {
       "swim:flight_ref": "100776581",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377656219,
     "wof:involves": [102530049, 102527513, 1159285413, 1159157821, 1159289985],
-    "wof:lastmodified": 1557778023,
+    "wof:lastmodified": 1557795928,
     "wof:name": "UA295 (SFO-EWR)",
     "wof:parent_id": 1159157821,
     "wof:placetype": "event",

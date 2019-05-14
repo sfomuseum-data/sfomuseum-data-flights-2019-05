@@ -35,16 +35,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N284VA",
     "wof:belongsto": [
-      1159157271, 
       85922583, 
-      1159157827, 
-      85688637, 
-      102527513, 
-      1159157337, 
+      1159157271, 
       102191575, 
+      102087579, 
       85633793, 
+      85688637, 
       1159157333, 
-      102087579
+      1159157827, 
+      102527513, 
+      1159157337
     ],
     "wof:concordances": {
       "swim:flight_ref": "100983620",
@@ -77,7 +77,7 @@
       1159283697, 
       1159292085
     ],
-    "wof:lastmodified": 1557777854,
+    "wof:lastmodified": 1557795979,
     "wof:name": "AS9515 (SFO-AKL)",
     "wof:parent_id": 1159157827,
     "wof:placetype": "event",

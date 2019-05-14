@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N471AS",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
       1159157271, 
       102191575, 
       102087579, 
       1159157833, 
-      102527513, 
       1159396121, 
       1159396181, 
-      85633793
+      85633793, 
+      102527513, 
+      85922583, 
+      85688637
     ],
     "wof:concordances": {
       "swim:flight_ref": "100837129",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377660931,
     "wof:involves": [102533795, 102527513, 1159283813, 1159157833, 1377564285],
-    "wof:lastmodified": 1557777854,
+    "wof:lastmodified": 1557795979,
     "wof:name": "AS938 (SFO-LAX)",
     "wof:parent_id": 1159157833,
     "wof:placetype": "event",

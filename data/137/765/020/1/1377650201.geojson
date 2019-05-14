@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N786SW",
     "wof:belongsto": [
-      85688637, 
-      1159157317, 
-      102087579, 
       85922583, 
-      102527513, 
-      102191575, 
+      85688637, 
       1159157715, 
+      102527513, 
+      1159157317, 
       1159157271, 
       1159396217, 
-      85633793
+      85633793, 
+      102087579, 
+      102191575
     ],
     "wof:concordances": {
       "swim:flight_ref": "100810065",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377650201,
     "wof:involves": [102527513, 102531189, 1159285591, 1159157715, 1159289869],
-    "wof:lastmodified": 1557778010,
+    "wof:lastmodified": 1557795904,
     "wof:name": "WN2283 (DEN-SFO)",
     "wof:parent_id": 1159157715,
     "wof:placetype": "event",

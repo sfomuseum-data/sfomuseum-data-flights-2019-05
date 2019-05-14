@@ -32,14 +32,14 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N286VA",
     "wof:belongsto": [
-      85922583, 
-      554784711, 
-      85688637, 
+      102085387, 
       102527513, 
       102191575, 
-      102085387, 
       85633793, 
-      102087579
+      102087579, 
+      85922583, 
+      554784711, 
+      85688637
     ],
     "wof:concordances": {
       "swim:flight_ref": "100897733",
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1377661057,
     "wof:involves": [102534365, 102527513, 1159283813, 1159292085],
-    "wof:lastmodified": 1557777854,
+    "wof:lastmodified": 1557795979,
     "wof:name": "AS1024 (SFO-JFK)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

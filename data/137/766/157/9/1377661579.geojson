@@ -32,16 +32,16 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N430UA",
     "wof:belongsto": [
+      102087579, 
       85688637, 
       1159157271, 
-      102191575, 
       85922583, 
       1159157307, 
+      102527513, 
       1159396301, 
-      102087579, 
-      1159157659, 
+      102191575, 
       85633793, 
-      102527513
+      1159157659
     ],
     "wof:concordances": {
       "swim:flight_ref": "100839408",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1377661579,
     "wof:involves": [102533795, 102527513, 1159285413, 1159157659, 1159292085],
-    "wof:lastmodified": 1557777855,
+    "wof:lastmodified": 1557795981,
     "wof:name": "UA1294 (SFO-LAX)",
     "wof:parent_id": 1159157659,
     "wof:placetype": "event",

@@ -30,17 +30,18 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N361HA",
     "wof:belongsto": [
+      1159157271, 
+      102527513, 
+      102191575, 
+      85633793, 
+      85688637, 
       102087579, 
       85922583, 
-      85688637, 
-      85633793, 
       1159157641, 
-      102527513, 
-      1159157333, 
       1159157339, 
-      102191575, 
-      1159157271
+      1159157333
     ],
     "wof:concordances": {
       "swim:flight_ref": "100881291",
@@ -66,7 +67,7 @@
     ],
     "wof:id": 1377674461,
     "wof:involves": [102532929, 102527513, 1159284489, 1159157641, 1159289421],
-    "wof:lastmodified": 1557777863,
+    "wof:lastmodified": 1557795992,
     "wof:name": "HA41 (SFO-OGG)",
     "wof:parent_id": 1159157641,
     "wof:placetype": "event",

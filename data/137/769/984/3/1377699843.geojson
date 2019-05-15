@@ -38,15 +38,15 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N638VA",
     "wof:belongsto": [
-      85922583, 
-      554784711, 
-      102191575, 
-      102085387, 
-      85688637, 
       102527513, 
       85633793, 
-      102087579, 
-      1377699843
+      1377699843, 
+      102085387, 
+      85922583, 
+      554784711, 
+      85688637, 
+      102191575, 
+      102087579
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -78,7 +78,7 @@
     ],
     "wof:id": 1377699843,
     "wof:involves": [102528817, 102527513, 1159283813, 1159292085],
-    "wof:lastmodified": 1557936306,
+    "wof:lastmodified": 1557944828,
     "wof:name": "AS1102 (SFO-IAD)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

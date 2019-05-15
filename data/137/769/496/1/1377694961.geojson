@@ -36,15 +36,15 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N638VA",
     "wof:belongsto": [
-      1377694961, 
-      85922583, 
-      102085387, 
-      85633793, 
-      102087579, 
-      554784711, 
       85688637, 
       102527513, 
-      102191575
+      102191575, 
+      102085387, 
+      85922583, 
+      554784711, 
+      85633793, 
+      102087579, 
+      1377694961
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1377694961,
     "wof:involves": [102527513, 102533269, 1159283813, 1159292085],
-    "wof:lastmodified": 1557936299,
+    "wof:lastmodified": 1557944808,
     "wof:name": "AS1076 (SEA-SFO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

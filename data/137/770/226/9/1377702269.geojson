@@ -38,17 +38,17 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "GCKWS",
     "wof:belongsto": [
-      102087579, 
+      85633793, 
       85688637, 
       1159157271, 
       102191575, 
-      85633793, 
+      102087579, 
       85922583, 
       102527513, 
       1159157339, 
+      1377702269, 
       1159157823, 
-      1159157333, 
-      1377702269
+      1159157333
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1377702269,
     "wof:involves": [102556713, 102527513, 1377649063, 1159157823, 1159293215],
-    "wof:lastmodified": 1557936304,
+    "wof:lastmodified": 1557944837,
     "wof:name": "DI7174 (SFO-LGW)",
     "wof:parent_id": 1159157823,
     "wof:placetype": "event",

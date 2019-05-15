@@ -36,15 +36,15 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N945JT",
     "wof:belongsto": [
-      85633793, 
+      102087579, 
+      85922583, 
       102085387, 
+      102191575, 
+      85633793, 
       1377697411, 
       554784711, 
       85688637, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85922583
+      102527513
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1377697411,
     "wof:involves": [102527513, 102530741, 1159284583, 1159289411],
-    "wof:lastmodified": 1557936306,
+    "wof:lastmodified": 1557944818,
     "wof:name": "B61833 (BOS-SFO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

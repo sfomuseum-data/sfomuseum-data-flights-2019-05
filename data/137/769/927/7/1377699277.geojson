@@ -38,17 +38,17 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N7725A",
     "wof:belongsto": [
-      85688637, 
       102527513, 
       1159396217, 
-      1159157317, 
+      85688637, 
       102191575, 
-      102087579, 
       85633793, 
+      102087579, 
       1377699277, 
       85922583, 
-      1159157271, 
-      1159157811
+      1159157811, 
+      1159157317, 
+      1159157271
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1377699277,
     "wof:involves": [102526751, 102527513, 1159285591, 1159157811, 1159289869],
-    "wof:lastmodified": 1557936308,
+    "wof:lastmodified": 1557944826,
     "wof:name": "WN806 (SFO-PHX)",
     "wof:parent_id": 1159157811,
     "wof:placetype": "event",

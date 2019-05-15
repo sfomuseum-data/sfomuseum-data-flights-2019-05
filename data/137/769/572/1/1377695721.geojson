@@ -36,17 +36,17 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N309FR",
     "wof:belongsto": [
-      1159157271, 
       85688637, 
+      1159157317, 
+      1159157271, 
       1159396217, 
-      102191575, 
       102527513, 
       102087579, 
-      1377695721, 
+      1159157625, 
+      102191575, 
       85922583, 
       85633793, 
-      1159157625, 
-      1159157317
+      1377695721
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1377695721,
     "wof:involves": [102527513, 102531189, 1159284401, 1159157625, 1159292085],
-    "wof:lastmodified": 1557936301,
+    "wof:lastmodified": 1557944811,
     "wof:name": "F9667 (DEN-SFO)",
     "wof:parent_id": 1159157625,
     "wof:placetype": "event",

@@ -36,15 +36,15 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N553AS",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      102085387, 
+      102527513, 
       102191575, 
       1377694959, 
       85922583, 
       554784711, 
       85688637, 
-      102527513
+      85633793, 
+      102087579, 
+      102085387
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1377694959,
     "wof:involves": [102527513, 102532251, 1159283813, 1159289871],
-    "wof:lastmodified": 1557936299,
+    "wof:lastmodified": 1557944808,
     "wof:name": "AS392 (PDX-SFO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

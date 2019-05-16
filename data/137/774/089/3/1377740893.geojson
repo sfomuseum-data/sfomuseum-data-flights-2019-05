@@ -38,15 +38,15 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N843VA",
     "wof:belongsto": [
-      1377740893, 
-      85688637, 
       102527513, 
-      102191575, 
-      102085387, 
-      102087579, 
+      85633793, 
+      1377740893, 
       85922583, 
       554784711, 
-      85633793
+      102085387, 
+      102191575, 
+      102087579, 
+      85688637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -78,7 +78,7 @@
     ],
     "wof:id": 1377740893,
     "wof:involves": [102533269, 102527513, 1159283813, 1159292085],
-    "wof:lastmodified": 1558022719,
+    "wof:lastmodified": 1558034875,
     "wof:name": "AS1331 (SFO-SEA)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

@@ -36,18 +36,19 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "B2482",
     "wof:belongsto": [
       1159157271, 
       1159157337, 
-      85633793, 
+      102087579, 
+      102191575, 
       1159157333, 
       102527513, 
+      85688637, 
+      85633793, 
       1377744081, 
       85922583, 
-      1159157815, 
-      102191575, 
-      102087579, 
-      85688637
+      1159157815
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1377744081,
     "wof:involves": [102550367, 102527513, 1159283605, 1159157815, 1159293239],
-    "wof:lastmodified": 1558022728,
+    "wof:lastmodified": 1558034887,
     "wof:name": "CA986 (SFO-PEK)",
     "wof:parent_id": 1159157815,
     "wof:placetype": "event",

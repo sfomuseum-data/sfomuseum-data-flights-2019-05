@@ -36,17 +36,17 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N595UA",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
       1159157821, 
-      102087579, 
+      102191575, 
+      1377736643, 
+      85922583, 
       85688637, 
+      85633793, 
       1159157307, 
       1159157271, 
       102527513, 
       1159396301, 
-      1377736643, 
-      85922583
+      102087579
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1377736643,
     "wof:involves": [102527513, 102530049, 1159285413, 1159157821, 1159289939],
-    "wof:lastmodified": 1558022718,
+    "wof:lastmodified": 1558034859,
     "wof:name": "UA1526 (EWR-SFO)",
     "wof:parent_id": 1159157821,
     "wof:placetype": "event",

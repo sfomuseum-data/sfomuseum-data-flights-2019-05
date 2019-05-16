@@ -26,6 +26,7 @@
     "lbl:longitude":-122.389174,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "sfomuseum:aircraft_id":1159289437,
     "sfomuseum:airline_id":1159283627,
     "sfomuseum:arrival_id":102544459,
     "sfomuseum:departure_id":102527513,
@@ -36,6 +37,7 @@
     ],
     "sfomuseum:placetype":"flight",
     "src:geom":"unknown",
+    "swim:tail_number":"FHPJJ",
     "wof:belongsto":[
         1159157339,
         1159157805,

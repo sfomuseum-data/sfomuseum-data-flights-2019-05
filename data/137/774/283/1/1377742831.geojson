@@ -38,17 +38,17 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N73259",
     "wof:belongsto": [
-      85633793, 
-      1377742831, 
       1159157741, 
-      102527513, 
       1159157307, 
       1159157271, 
+      1377742831, 
       1159396301, 
-      102087579, 
       85688637, 
       102191575, 
-      85922583
+      102087579, 
+      85922583, 
+      102527513, 
+      85633793
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1377742831,
     "wof:involves": [102525635, 102527513, 1159285413, 1159157741, 1159289871],
-    "wof:lastmodified": 1558022724,
+    "wof:lastmodified": 1558034882,
     "wof:name": "UA2363 (SFO-DTW)",
     "wof:parent_id": 1159157741,
     "wof:placetype": "event",

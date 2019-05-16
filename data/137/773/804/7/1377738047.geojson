@@ -34,18 +34,19 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "unknown",
     "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "VHZNH",
     "wof:belongsto": [
       85633793, 
-      1159157339, 
-      1377738047, 
-      85688637, 
       1159157635, 
-      102191575, 
+      1377738047, 
+      1159157333, 
       1159157271, 
       102527513, 
+      1159157339, 
+      102191575, 
       102087579, 
       85922583, 
-      1159157333
+      85688637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -73,7 +74,7 @@
     ],
     "wof:id": 1377738047,
     "wof:involves": [102527513, 102557779, 1159285043, 1159157635, 1159293215],
-    "wof:lastmodified": 1558022721,
+    "wof:lastmodified": 1558034865,
     "wof:name": "QF49 (MEL-SFO)",
     "wof:parent_id": 1159157635,
     "wof:placetype": "event",

@@ -38,15 +38,15 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N546AS",
     "wof:belongsto": [
-      102527513, 
+      85922583, 
+      102191575, 
       85633793, 
       102087579, 
+      102085387, 
+      1377750803, 
       554784711, 
       85688637, 
-      102191575, 
-      1377750803, 
-      85922583, 
-      102085387
+      102527513
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -78,7 +78,7 @@
     ],
     "wof:id": 1377750803,
     "wof:involves": [102533269, 102527513, 1159283813, 1159289871],
-    "wof:lastmodified": 1558109116,
+    "wof:lastmodified": 1558117147,
     "wof:name": "AS303 (SFO-SEA)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

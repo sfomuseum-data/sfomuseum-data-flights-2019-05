@@ -38,17 +38,17 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N538AS",
     "wof:belongsto": [
-      1377749135, 
       1159157271, 
       102527513, 
-      85922583, 
-      1159396121, 
+      102087579, 
+      85688637, 
       1159396181, 
       102191575, 
       85633793, 
       1159157793, 
-      102087579, 
-      85688637
+      1377749135, 
+      85922583, 
+      1159396121
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1377749135,
     "wof:involves": [102532929, 102527513, 1159283813, 1159157793, 1159289871],
-    "wof:lastmodified": 1558109122,
+    "wof:lastmodified": 1558117140,
     "wof:name": "AS661 (SFO-OGG)",
     "wof:parent_id": 1159157793,
     "wof:placetype": "event",

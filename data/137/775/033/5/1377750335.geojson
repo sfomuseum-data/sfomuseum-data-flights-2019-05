@@ -38,14 +38,14 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "wof:belongsto": [
       85688637, 
-      85633793, 
-      1377750335, 
-      102527513, 
       102191575, 
       102087579, 
+      1377750335, 
+      102085387, 
+      102527513, 
+      85633793, 
       85922583, 
-      554784711, 
-      102085387
+      554784711
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -77,7 +77,7 @@
     ],
     "wof:id": 1377750335,
     "wof:involves": [102528997, 102527513, 1159283813, 1159292085],
-    "wof:lastmodified": 1558109114,
+    "wof:lastmodified": 1558117146,
     "wof:name": "AS1954 (SFO-SAN)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

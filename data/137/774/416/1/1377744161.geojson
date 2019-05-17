@@ -36,15 +36,15 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N586AS",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
       85633793, 
-      102087579, 
-      554784711, 
-      102527513, 
-      1377744161, 
       85922583, 
-      102085387
+      102191575, 
+      102085387, 
+      102087579, 
+      1377744161, 
+      554784711, 
+      85688637, 
+      102527513
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1377744161,
     "wof:involves": [102527513, 102533795, 1159283813, 1159289871],
-    "wof:lastmodified": 1558109113,
+    "wof:lastmodified": 1558117122,
     "wof:name": "AS899 (LAX-SFO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

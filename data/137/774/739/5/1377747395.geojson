@@ -36,15 +36,15 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N626VA",
     "wof:belongsto": [
+      554784711, 
       102527513, 
-      85633793, 
-      102087579, 
       102085387, 
-      85688637, 
-      102191575, 
+      102087579, 
       1377747395, 
       85922583, 
-      554784711
+      85688637, 
+      102191575, 
+      85633793
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1377747395,
     "wof:involves": [102527513, 102527209, 1159283813, 1159292085],
-    "wof:lastmodified": 1558109124,
+    "wof:lastmodified": 1558117134,
     "wof:name": "AS1913 (LAS-SFO)",
     "wof:parent_id": 102527513,
     "wof:placetype": "event",

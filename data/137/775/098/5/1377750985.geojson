@@ -38,17 +38,17 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "9VSMU",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
       102087579, 
       1159157815, 
-      102527513, 
       1159157337, 
-      85688637, 
       102191575, 
       1377750985, 
       85922583, 
-      1159157333
+      85688637, 
+      85633793, 
+      1159157333, 
+      102527513, 
+      1159157271
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1377750985,
     "wof:involves": [102551593, 102527513, 1159285163, 1159157815, 1377564293],
-    "wof:lastmodified": 1558109116,
+    "wof:lastmodified": 1558117148,
     "wof:name": "SQ31 (SFO-SIN)",
     "wof:parent_id": 1159157815,
     "wof:placetype": "event",

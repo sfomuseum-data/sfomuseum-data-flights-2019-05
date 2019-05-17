@@ -38,17 +38,17 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "CGKOE",
     "wof:belongsto": [
-      85688637, 
-      1159157657, 
+      1159157337, 
+      85633793, 
       1377750463, 
       1159157333, 
-      1159157337, 
+      85922583, 
       102191575, 
       102087579, 
-      85922583, 
+      85688637, 
+      1159157657, 
       1159157271, 
-      102527513, 
-      85633793
+      102527513
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1377750463,
     "wof:involves": [102555307, 102527513, 1159283597, 1159157657, 1159292085],
-    "wof:lastmodified": 1558109115,
+    "wof:lastmodified": 1558117146,
     "wof:name": "AC569 (SFO-YVR)",
     "wof:parent_id": 1159157657,
     "wof:placetype": "event",

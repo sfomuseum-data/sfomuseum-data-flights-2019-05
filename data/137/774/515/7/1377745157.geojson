@@ -36,17 +36,17 @@
     "src:geom_alt": ["swim-route", "swim-path"],
     "swim:tail_number": "N376DA",
     "wof:belongsto": [
-      102191575, 
+      1159157317, 
       102087579, 
+      85922583, 
       85688637, 
-      1159157323, 
       1159157271, 
       85633793, 
+      1159157747, 
       1377745157, 
-      85922583, 
-      1159157317, 
       102527513, 
-      1159157747
+      1159157323, 
+      102191575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1377745157,
     "wof:involves": [102527513, 102533269, 1159284261, 1159157747, 1159289871],
-    "wof:lastmodified": 1558109116,
+    "wof:lastmodified": 1558117126,
     "wof:name": "DL1470 (SEA-SFO)",
     "wof:parent_id": 1159157747,
     "wof:placetype": "event",

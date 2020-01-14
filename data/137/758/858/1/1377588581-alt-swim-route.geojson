@@ -10,7 +10,8 @@
     "swim:geom":"route",
     "wof:alt_label":"swim-route",
     "wof:geomhash":"32927a9d12d742d24c3f2a990884f432",
-    "wof:id":1377588581
+    "wof:id":1377588581,
+    "wof:repo":"sfomuseum-data-flights-2019-05"
 },
   "bbox": [
     -122.38,

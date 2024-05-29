@@ -75,10 +75,13 @@
       1159283813,
       1159157703
     ],
-    "wof:lastmodified": 1651512815,
+    "wof:lastmodified": 1717006261,
     "wof:name": "AS3407 (PSP-SFO)",
     "wof:parent_id": 1159157703,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-05",
     "wof:superseded_by": [],
     "wof:supersedes": [],
